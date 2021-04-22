@@ -1,0 +1,1002 @@
+Welcome back to this course on polymer chemistry and in today ’ s lecture , which is lecture number seventeen , I am going to cover or begin our discussion on ionic chain polymerization .
+   5.87320033811703And in next lecture , I plan to talk about the other type of ionic polymerization , which is anionic chain polymerization .
+   15.778913972767278Say , if I consider M as a monomer and I is a , initiation , initiator , then it could be a cation or an anion , which will , according to which we name cationic polymerization or anionic polymerization .
+   35.03085431347976So , this is example , this is a case of cationic polymerization .
+   6.693666885184299Now , the some polymerization , for example , initiation by coordination or semi clock side , which also progress through an ionic species , propagating , propagates through ionic species route , but those we are not going to cover as an ionic chain polymerization .
+   188.84063091142104So , ionic chain polymerization we will consider only when both the initiation and the propagation reaction is by ionic species .
+   27.11128821219452There are main , too main reasons why they are not so utilized commercially .
+   95.3792970794558However , this polymerization is ionic chain polymerization , gives us opportunity to synthesize specialized polymers , like block copolymers or tellically polymers , which are basically type polymers , having functional groups at the end of the chain , which we can , we utilized for the , for another reactions .
+   83.33547010429128So , let us start the discussion on ionic polymerization and let us talk about first the general characteristics .
+   10.561560784424005And while talking these general characteristics of ionic polymerization we will compare its differences or its likeliness with the chain , radical chain polymerization .
+   57.15922791466729Now , why do we started our discussion on chain polymerization ?
+   3.4625498067391893We talked about , that this monomers like this ether , which have electron donating group like there oxygen , which can be lone pair , can be donated if it is a cationic centre here .
+   51.148631946493886Now , this type of monomers can be polymerized by cationic chain polymer , polymerization reaction because the resulting cationic propagating can be stabilized by the electron donating , mechanizing donation by the oxygen from here .
+   43.66990632641697So , if I write on the , complete this sentence , in that you can able to do , stabilize both cationic and anionic propagating species .
+   56.96243078413225As we see , we have seen now from this discussion , that not every monomer can be polymerized by anionically and there is a set of polymer , a set of monomers , which can be polymerized anionically .
+   28.459464842524273And you know , less number of monomers can be polymerized cationically , and there are even lesser number polymers , which can be polymerized by both anionic and cationic polymerization .
+   37.67746697290426Now , second characteristics , if you want to talk about , is the effect of polarity , effect of polarity of the solvent .
+   30.63949866679527For the positive it is a anion , for negative it is a cation .
+   59.959118412706424We do ionic reaction in a polar solvent because if you have polar solvent , then this oppositely charge ions , ions will be well separated in the medium and if they are well separated , obviously , the reactivity of the active center in the propagating chain will be higher .
+   37.6750881606593So , these ionic centers are destroyed with reaction of this hydroxyl , hydroxy molecules , H 2 O or alcohol .
+   88.04668913443784If you have other polar solvents , like say ketone , what happens ?
+   20.566640049333618This ketone loop complex form complex with this ionic species and then once they form complex , the reactivity of this ionic species are lost .
+   49.69004486060942So , you require a polar solvent to have these charges separated and ions as free as possible .
+   78.61075437146049Similarly , if you use very high polar solvents , like hydroxylated solvents or ketone , then the reaction actually gets stopped by reaction of these solvent molecules with the reactive species .
+   63.71628584434837So , these are the examples of some of the solvents , which have , medium , low to medium polarity and does not high react with those ionic species .
+   42.696356644724204Two , they can be tight ion - pair ; these are very tight , no solvent molecule in between .
+   30.672997539947687Same thing is called with different names .
+   39.9882711435486Now , obviously , with the increase in the polarity of the medium , if you increase the polarity of the medium , this , this , the more polar means , the ions get solvated and then finally , get as free ion , ion - pair .
+   28.027759275790775So , as the reactivity of the ionic centre , obviously , the free is the ionic center it gets , it becomes more reactive .
+   81.3537218013955So , in this way you can understand , that solvents play , solvent means , I mean polarity of the solvent plays a very important role in terms of reactivity of these ionic reactions .
+   32.63544161026771They are fast ; they are about , say , 10 to the power 4 to 10 to the power of 6 times of the reaction rate of radical chain polymerization .
+   16.72768991724004And as we will immediately discuss , that in case of ionic reaction , this bimolecular , molecular , termination bimolecular termination by reaction between two propagating species is absent or absent because they are anionic charge .
+   76.16099238419218What you have seen , that radical , two radical propagating species can react with each other and can terminate either by combination or by in case of cationic , anionic polymerization or cation polymerization .
+   55.138945956394814Because they have seen this propagation species are similarly charged , they cannot react with each other and terminate the chains .
+   41.03757445446395As a result , there is a huge increase in the concentration of these active centers in the medium and as a result , the reaction is very fast .
+   23.595650248683988And as these ionic centers are very reactive , they are very sensitive to , very sensitive to impurities , which includes moisture because they are very active , reactive .
+   94.24339275977245These ionic centers are very reactive , they are very sensitive to this impurities where you know , that radical , though radical chain polymerization are sensitive to impurities , but they are not as radical chain polymerization , is not as sensitive as in case of ionic chain polymerization and sometimes large effect of , large effect of cocatalyst .
+   74.3853522300347And as the reaction is very fast and complex , this kinetic data , kinetic data are often , often not reproducible because this kinetic data is not always reproducible , especially in this case of kinetics , especially in case of cationic polymerization , cationic , the mechanism and the mechanism on kinetics of this ionic polymerization , especially cationic chain polymerization is still not completely understood , to understand the mechanism in kinetics of this ionic polymerization , especially the cationic one , because as I said , these reactions are very fast and not reproducible .
+   82.13534300530992So , if you can stop the side reactions , which includes the chain transfer reaction , then you can actually make this chain alive or this polymerization could be living polymerization and that is especially true for anionic polymerization .
+   46.81552602275438So , I should write cationic chain polymerization .
+   10.086749357588918So , it consists of three steps : initiation , propagation and termination .
+   11.504508869866125First , let us talk about different types of initiation reactions , different types of initiation reaction and first one is , which is more common is , by reaction of monomer with an electrophile , say R plus and this electophile could be H plus , which you get it from protonic acids .
+   50.76621392620082Now , if I write generic way , H plus plus A , generic structure of a monomer , it gives you CH 3 CH Y , cationic species , and A minus .
+   62.82596156219866This is counter A minus , is the counter ion .
+   44.074348492968696And A minus , the counter ion , should not be heavy , strong nucleophile because if it is a very strong nucleophile , then it can react with the cationic group and make a covalent bond and stop the reaction there itself .
+   35.54105034033608They are used , they can be used because this counter ions are not so strong nucleophile like halide ions , but still this , this , because they are , they are also significantly nucleophilic , this cannot built very high molecular with polymers by cationic chain polymerization .
+   93.86598087675947So , that is B , with the Lewis acid I can write generic structures like MX n for Lewis acids .
+   76.16975109400734Example could be BF 3 , AlCl 3 , SnCl 4 , SlCl 5 , ZnCl 2 , TiCl 4 , and so on , or they are derivatives , like RaCl 2 , R 2 AlCl and so on .
+   179.9848932251049For example , if you take a reaction of isobutylene plus anhydrous BF 3 , anhydrous BF 3 , then there is no reaction .
+   56.507760838186854But at the moment you add little bit of water along with this mix , so you have the same reaction with BF 3 plus H 2 O , then there is a rapid reaction .
+   38.419886755192394So , these examples showing as these Lewis acids , which we just showed in the last page , they are often used along with a second catalyst or cocatalyst , which can be water molecules or some other molecules .
+   42.346966961468056Now , this is called nowadays initiator because this is the species , which is supplying the H plus or R plus .
+   70.8398344413037Now , I can write generic reaction for this type of reaction .
+   14.218001653361915Now , once you form this , again react with the monomer and form the initiating species , which let us write in next page .
+   16.829035899696965So , this is example of alkyl halide , which is used for this cocatalyst or initiator in this reaction .
+   36.46670821744672So , I , I can write a generic equation or expression , say I , I for the initiator and YZ , this is for your coinitia , I for the coinitiator , this is for the initiator or this for catalyst and this is for the cocatalyst , giving rise to a cationic species and a counter ion .
+   74.25036501061582This , this is the step , which is rate determining step .
+   9.744191093563916For example , if I consider ionic , cationic polymerization of isobutylene by tin chloride catalyst , then the reactivity of this reaction or the rate of reaction follows Rp , follows in the order like this , nitroethane , nitroethane , phenol , water , which is basically the ranking of the acidity of this cocatalyst .
+   60.374695413200776Now , this reaction complex , the , the activity , the total polymerization rate dependence on this RCl is little complex and we will keep the discussion for this course .
+   134.75592805497385So , you should just remember that the , the structure of the cocatalyst also determines the rate of polymerization and also affect the rate of polymerization , and we will now see that .
+   39.94983358665899Now , now Lewis , Lewis acid , we are talking about this reaction are the initiation , is by Lewis acids .
+   28.26274484551668So , Lewis acidity of these defined metals increases with atomic number .
+   75.83082027226042We know that Lewis acidity follow this order .
+   35.65075282178214This Lewis acidity of this defined metals increases with the atomic numbers .
+   58.624720057649874So , for a single metal , say , if we consider titanium , then again the Lewis acidity increases with the oxidation number .
+   56.901761294356014So , TiCl 4 have more Lewis acidity compared to , Tl , TiCl 3 than this .
+   135.49410244134887So , for , if you compare with defined , different metal is basically atomic number .
+   40.168645489626It will determine the Lewis acidity and for same , same metal is the oxidation state increases , the Lewis acidity increases and also the Lewis acidity .
+   87.64885272932429If this ligand , they follow this , so obviously , if the ligands are fluorine or chloride , they have much more Lewis acidity compared to the ligands are , this is , this is from your basic knowledge from inorganic chemistry , basic knowledge and this is , from this expression , you know , this is strongest Lewis acid and this is , not always we use this though it is a very strong Lewis acid , for all the cationic reaction .
+   72.09974269949406We will not use this as a catalyst or a coinitiator because rather than other complication if the reaction , it is too fast , then the side reactions also come in the picture , the side reaction also increases .
+   74.04710542176406So , though this trend is there , now while choosing the catalyst or the coinitiator , it is , it is not this general trend is always followed , you have to keep the other factors in mind as well .
+   76.6778204967142So , we talked about the initiator reaction with by this reaction of the monomers with the electrophile .
+   32.89989030488699This can be initiation ; can be done by photo initiation of olium salts .
+   46.36150470316816It can be done by electro initiation where cationic species is formed by electrolysis of any species present in the medium or it can be done by ionic , ionization radiation , like in the case of radical the initiation can be done by ionization .
+   57.27735041847944So , these are the other possible ways of initiating a cationic polymerization .
+   20.09516521789544So , we will talk about kinetic .
+   9.757615098518633So , energetic , we will consider this generic initiation step and also consider this initiation step , of , for the discussion because this is the most important of the initiation step we just discussed .
+   74.53593178383738Propagation , we have already seen the different types of initiation possibility and as I said , we will consider the generic case , we , as I showed there .
+   43.71288045007289So , this , this was the initiation reactions .
+   18.128614172328678If Y is H , the photogens we can write H M n M plus IZ minus .
+   18.609886709134674For examples , that Ba 3 water case , I can write this is a proton donor .
+   51.89890460556566So , I can write… This is the reaction of isobutylene catalysed by this reaction .
+   22.306404125413117So , as a result more complicated products actually form when there is type of hydride shift or some cases methide shift , some cases shift one two methide shift .
+   122.29693638845067But this is not common ; this is especially applicable to some monomers .
+   47.230981859839915We discussed in length the effect of solvent polarity and if the polarity of the solvents is high , then this ion - pair will be more towards a solvated or free ion - pairs , then in the reactivity of this cationic species will be higher .
+   39.14764013197803This is a dielectric , resulting dilating constant and this is your kp liter mole inverse second inverse .
+   25.83414710646898If you consider further , 20 , 80 , 7 and this is 3.2 , 3.2 , 0 , 100 , 9.72 and this is 7 .
+   19.865472183001557So , if this is the data to convince you , that if you increase the polarity , which is given by dielectric constant , the rate constant or the rate of the polymerization reaction increases .
+   20.419869745763815So , we just discussed the propagation steps , now let us talk about different possible termination steps in cationic chain polymerization and as one more time , that it cannot , termination does not happen by bimolecular reaction of the propagating species and generally , the termination happens by transfer reactions .
+   41.24963062989662If we consider the same examples of isobutylene polymerization by BF 3 and H 2 O , this can transfer beta proton to the monomer and can form this and plus the 2 2 beta proton , one is here and one is this hydrogen .
+   74.51135083873633If this comes out , then you get a chain end with CH 2 .
+   29.354547758418853If this proton goes out and if something , one of the protons goes out from there , then you get CCH and that is possible , these are possible for other monomers where this is , these two types of double bond is a possibility .
+   98.2729558812066So , this is very common , this is very important termination process and it could be , this termination could happen to one of the , or any of the other agent as well .
+   41.77344725828636We just gave an example with the monomer and what we will do in the next lecture , we will talk about the other termination possibilities and will discuss the kinetics and the energetics of the cationic polymerization , cationic chain polymerization and then also discuss the characteristics and other features of anionic chain polymerization .
+   21.566694849816233We have discussed yesterday about the external film diffusion that is in cases where we consider nonporous matrices .
+   27.988608104182703Under steady state condition , the rate of mass transfer can be equated to the rate of biochemical reaction and then by analysis one can come under two extreme conditions ; one under high substrate concentrations we get a Lineweaver Burk profile which is analogous to ordinary soluble enzyme kinetics and in the case of low substrate concentration that is in this case ; low substrate concentration and high substrate concentration you get differences in slopes and the measurement of slope at two distinct stages of Lineweaver Burk plot gives you an estimate of the value of mass transfer coefficient .
+   42.02519184651064You do film diffusion klam can be computed .
+   100.39566266439796Therefore based on the observed reaction velocity in the case of an immobilized enzyme reactor one can determine the value of Sb - Ss that is the substrate concentration gradient and the magnitude of this determines whether the reaction is diffusional limited or otherwise .
+   21.856291194681912If the Sb - Ss is zero or very small quantity then there is no diffusional limitation .
+   22.22693387059834If the magnitude is large or Sb is much , much larger than Ss in that case film diffusion is the dominant player and so the nature of Lineweaver Burk plot under the range of condition of substrate concentration can give you an idea of the mass transfer coefficient .
+   37.328433826641316We are now looking at a general approach to understand the external film diffusion .
+   19.518051555408483We determine by some experimental method or an analytical method or an empirical equation the magnitude of the mass transfer coefficient and the magnitude of mass transfer coefficient will give you the magnitude of the concentration gradient and so another alternative route to estimation of mass transfer coefficient has been from empirical relationship what we call as JD factor .
+   61.01591769777667A JD factor has been defined in the case of heterogeneous catalysis in general and which applies very well to even enzyme catalyzed reaction .
+   47.10768237141368/ G ) ( µ / ?
+   1.0D ) 2 / 3 This is the … .
+   8.046847962466233number , Nsc .
+   10.12015051421896is density , G is the superficial mass velocity and µ is the viscosity ; row is again density and D is the diffusivity .
+   116.2199190965857A large number of correlations giving the values of C and n have been proposed under different conditions and one of them which needs the actual reaction conditions can be chosen from the literature and used for estimation of JD .
+   59.119346120894654Because kL will be equal to kL = JD.G / ?
+   22.886169154011522.Nsc 2 / 3 If you convert this magnitude of kL is related to JD factor by JD value and also a combination of the reactor operational parameters ; superficial mass velocity , density and …. .. number .
+   123.34567042301268This v ’ can be considered as the observed reaction rate which has been monitored experimentally and therefore one can determine the magnitude of Sb - Ss and that determines whether the diffusional control is there or not and accordingly one can design the reactor .
+   46.68292848030929One of them which have been applied is developed by McCune and Wilhelm .
+   78.35605447165409Once the magnitude of kL is known then one can really incorporate the value of kL into the rate constant of a reactor performance equation .
+   39.99731208308664In most of the practical cases whether it is a plug flow reactor or a CSTR , the error involved in assuming the whole reaction to be under a first order regime or a zero order regime is not very large depending on initial substrate concentration .
+   25.553497133008147So a first order approximation is not something which is invalid and as I mentioned earlier if you take certain data roughly an error of about ten percent in calculation of the space velocity is encountered .
+   158.57587694481686It also experiences high product concentration .
+   23.786715944920793But substrate concentration keeps reducing and towards the end of the reactor , the substrate concentration will be very low and one can assume a first order kinetics .
+   23.389618680377417If you consider a first order case , then the reaction velocity will be v ’ = kf amSS kf I have defined here as a pseudo first order rate constant which is based on surface area ; not volumetric rate constant ; but the surface area based rate constant just to have a dimensional homogeneity with the mass transfer correlation .
+   62.2786655226071If you equate the two that is v ’ = rm , that will imply that kf amSS = kLam. ( Sb - SS ) Therefore from this substrate concentration on the surface can be calculated as SS = kb.Sb / kf + kL or the observed rate is kL.kf.am.Sb v ’ = kf + kL Then the actual rate constant which incorporates the film diffusion coefficient is this parameter .
+   147.59579199750561kL can be determined either from experimental data from the Lineweaver Burk plot or from empirical equation of the JD factor .
+   54.42767431289833am is determined experimentally based on the geometry of the particle and kappf can be determined .
+   23.453333779869276Another way again an empirical way to look at the film diffusion has been proposed by Satterfield .
+   68.242458338542I must here again point out that the whole analysis of the immobilized enzyme reactor has been largely dominated by chemical engineering literature particularly with reference to heterogeneous catalysis because the systems are very identical excepting the thermal , specificity aspects which are attributed to enzymatic reactions but the catalysis part whether it is a heterogeneous catalyst in the case of chemical engineering that means a catalyst supported on a solid matrix .
+   71.44337296460475He defined a parameter Z as equal to e NRe2 / 3.NSe2 / 3 Y1 Z = ln 1.09 av Y2 Here sigma is voidage as we are familiar ; Renault number and the semite number and av is the ratio of particle surface area to reactor volume and Y1 is the mole fraction of substrate in feed ; Y2 is equal to mole fraction of substrate in the product stream and Z is the length or the height of packed bed required for mass transfer .
+   124.66493655032357That means Z is the height of the length of the packed bed required to transfer the substrate concentration across the film as a function of Renault number and Semite number purely on the basis of mass transfer control ; no biochemical reaction is assumed here .
+   58.102337481322145Based on the operational data that means the concentration of substrate in the feed and the product stream as well as the parameters of the reactor operation and the particle size , one can determine the length of the reactor required and if this length of the reactor required is relative to the length of the reactor required for biochemical reaction , if you compare this height required , let us say this is Z1 to that of the height required Z2 based on biochemical reaction if you calculate idealized reactor performance equation and calculate the height of the reactor required and compare the two values that gives you an identification whether film diffusion is controlling or not .
+   44.23021903093638The one which is larger has to be used .
+   11.13082043199726So for example let us say if this Z is much , much smaller than the height required for biochemical reaction then you don ’ t have to worry about diffusion .
+   16.65467677732498This is the height of the reactor .
+   5.650340692619676Right ; only Z1 ; you don ’ t bother about Z2 .
+   47.61511664729567You then don ’ t have to bother about the biochemical reaction because in that height reaction would have already taken place .
+   38.981009753640194Only difference is that between the bulk and the surface where the reaction is taking place there is concentration gradient and ideally if the diffusion control has to be out of picture in that case the concentration gradient should not be large and this concentration can be reached if you assume that there is no substrate consumption at the surface .
+   50.663500921182035Normally what is happening is that this substrate is getting transported from bulk to the surface and at the surface reaction is taking place .
+   50.61810857455919One of the two , which is larger , is required to be considered .
+   18.862474548044887This is what we were talking about the external film diffusion and the other part of the whole story of the steady state analysis is related to internal pore diffusion .
+   14.363944751023265Therefore it will become very important that we look at the concentration of substrate available for the enzymatic reaction within the pores of the reaction .
+   17.037158625370218K ’ m + Ss I mentioned Ss that means I am excluding the film diffusion .
+   125.07325866188712Whatever concentration of substrate that has reached at the surface from there to the pores of the particle we are considering .
+   25.241159052375863We will consider the case where the two parameters or rather all the three biochemical reaction , external film diffusion and internal pore diffusion are taking place .
+   22.75553296266233That means a very physical conceptual picture of effectiveness factor can be considered .
+   30.782365898289967If you consider a very hypothetical condition a single pore as a part of the matrix .
+   32.549873613509185This is surface ; this is thin film .
+   28.71238762016801The other is the substrate is also getting consumed during the reaction .
+   10.052127246777589So therefore if suppose the bulk substrate concentration is itself very low there is likely hood that by the time the substrate reaches to the inside pores , center of the particle there is no substrate present and reaction cannot take place even if enzyme is there .
+   95.23085869435582You will see from this relationship that maximum effectiveness factor can be one because that means the you have a enzyme reaction rate under the condition when the whole enzyme particle is flooded with the substrate , the same substrate concentration what is present at surface is present across the particle , at all surface at all the pores and under that condition the effectiveness factor will be one .
+   81.70382450834259There is very tricky situation ; in many cases people have also reported effectiveness factor exceeding unity ; experimental observations .
+   66.83683081461837You measure the enzyme activity lets say for example for different particle size in a reactor and the effectiveness factor works out to be more than one .
+   17.032590166494263Under what conditions the effectiveness factor should be more than one ?
+   10.227899752237184When the concentration goes down , reaction rate increases and therefore the effectiveness factor is one .
+   21.66370280981299pH . If suppose the product of the reaction provides you a change in the micro environment ; let us say hydrogen ions are produced .
+   19.81228861149334Then also we will notice the effectiveness factor to be greater than one .
+   24.02913812353626When you take the whole particle in account then the bulk of the particle experiencing lower substrate concentration means higher reaction velocity and so therefore this ratio will become more than one or in other words if you take two particles one of larger diameter other is smaller diameter the reaction rate in the larger particle may be more than in the smaller particle .
+   67.73045980774006That is what it means by effectiveness factor of one and in many cases of substrate inhibitor systems this is a usual pattern which is noticed .
+   42.14697632329318No . The comparison will be only when we take the same reaction and in reactor performance equation in addition to internal pore diffusion you also consider partitioning effects .
+   45.894946249577664Then you cannot really compare the two only by a steady state analysis or mass transfer and biochemical reaction .
+   27.734738158444777At the moment we are talking only of mass transfer and biochemical reaction .
+   6.785201065927701Partitioning also can be incorporated and which can give you a real performance .
+   29.264269674653843In the case of internal pore diffusion a steady state analysis can be made .
+   14.170620150959916In a simplistic way we consider a pore to be a single cylindrical catalyzed pore .
+   84.49303007993085We assume in a very simplistic way that the enzyme is taking place in a cylindrical pore .
+   12.914968517488099Consider a small differential element in this pore and along which the mass balance can be made .
+   96.48469175527593This is Ss , the substrate concentration on the surface and this goes down across the pore .
+   32.918147006454If you make a mass balance across this differential element at steady state you see the output of the substrate will be –pR2.D ( ds / dx ) out .
+   23.02250765784761Input is pR2.D ( ds / dx ) in .
+   31.980512532049868At steady state : –pR2.D ( ds / dx ) out + pR2.D ( ds / dx ) in + v ’ ( 2pR ) dx This should be equal to zero as at steady state we make a mass balance of substrate across the differential element we get this .
+   44.75288827323128I must again here remind one thing ; this reaction velocity is based on surface area and not volumetric reaction velocity as we are usually used to in the case of soluble enzymes .
+   55.09493864071644v ’ is based on surface area unlike in the case of soluble enzyme where we usually represent based on the volumetric reaction velocity and that ’ s why we have multiplied by 2pR .
+   36.37091619585984v ’ = 0 This gives you a generalized second order differential equation which can be set for internal pore diffusion cum biochemical reaction .
+   34.34267738777409Here you can make modification ; if you transfer the reaction velocity in the volumetric form like for example kV = kS.S These are the two rate constants ; zero order or first order based on volumetric and surface area and in that case for a cylindrical pore the k will be equal to k = kS.S / v = 2kS / R Therefore one can write here as d2s / dx2 – v ’ = 0 as the basic second order differential equation a solution of which can give you if you substitute the reaction rate term here depending on the nature of the reaction either by assuming a first order kinetics or zero order kinetics or even Michaelis Menten kinetics and Michaelis Menten kinetics will require a numerical solution and analytical solution may be difficult and you can get the solution of the substrate concentration as a function of the distance x from the surface .
+   55.476270775439495A solution of this will give you the substrate concentration profile in the pore or inside the particle .
+   18.736064046789686This can be written for variety of cases and solved within boundary conditions so as to give you the reactor performance .
+   25.941243478428472I think we will now stop at this point .
+   7.161939666699103Welcome back to this 8 th lecture of this course in Polymer Chemistry .
+   2.442513019631452And I will be telling you what is my expectation at the end of this module .
+   21.031373183566025Now , let us look at the whatever topic we covered in the last lecture .
+   16.09518102475319In the last lecture we have covered the cyclization verses linear polymerization , what are the conditions which prefer linear polymerization , which are different the preferred ones .
+   57.86457806168629And at the end we discussed the complete list of conditions or the criteria , which one must be maintaining during the polymerization or at the beginning of the polymerization to have a successful step polymerization .
+   31.94168467232081And you have done whatever I have been instructed to you have done that .
+   54.65905425815641In spite of doing that you found that at the end of the reaction your desired polymer has not formed .
+   20.607134648030694That means , you must be expecting a high molecular weight you have got a low molecular weight polymers .
+   24.480927107924195Now , if we find any monomer there , which means that during the polymerization one or more than one monomers has escaped by volatilization .
+   71.80357164817855And that is going to imbalance your monomer ratio , you must have you might have taken one is one ratio or whatever very close to one what is your target molecular weight .
+   45.58976387347052Now , what are the ways you can tackle this , one thing you can do if you find that their monomers are getting volatilized during the reaction .
+   24.328431193144535And when a reaction has progressed some for some duration and then duration there is a chance that monomers might form dimer or small molecular weight , oligomers .
+   135.78352293083418Now , if you apply the vacuum or reduce the pressure , then chances of you know vocalization of the monomers comes down .
+   40.653359323029555And at the finally , when your molecular weight the conversion is you know quite high , there are less amount of monomer present in the reaction medium , you ramp the temperature as high as possible , you know and then you reduce the pressure as much as possible .
+   44.10560941777374Second thing you can analyze the product , if the product is colored or if you by analyzing the reaction mixture of the end of the product at the end of the reaction we find there are new molecules .
+   42.62499987526066And what you have to do to tackle this you will understand what is going on and understand the chemistry behind this side reaction and then do whatever now your best way to minimize this side reaction unwanted reactions .
+   58.72177720232326And sometimes the catalyst , which you are using in the reaction that might be one source , which might be catalyzing the side reactions as well .
+   25.268424862081588So , that your side reactions comes down as low as possible , one side reactions we can consider during polyester formations .
+   72.40851425494449So , with this you can generate free acid group and a alkene group here , at this is very common by if you have a beta hydrogen present then by doing a 6 membered considered reaction , it might do a side reaction .
+   58.08419873273507And you can end up getting new functional group or new products , which might give you color in the at the end of the reaction , so that is one example .
+   23.403597738065066Now , let us go back to the last lecture , we talked about that the k rate constant for step polymerization is quite low 10 to the minus 3 liter per mole per second .
+   20.602273297882792Now , there are few exceptions , there are actually very few exception , one example is the reactions with diacid chlorides .
+   70.96198027304249Now , these diacid chloride reactions with dial or diamine there are very fast and k r of the order of 10 to the power 4 to 10 to the power of 5 L in term of per second inverse , which means they are much fast reaction compared to the normal step polymerization reactions .
+   50.688221032076996And I will come to the example of interfacial and polymerization .
+   22.38742556092036For example the polycarbonate , most of the polycarbonate major rate of the polycarbonates are synthesized by this interfacial polymerization bisphenol this is the monomer bisphenola .
+   92.99469864042936And this is phosgene bisphenola is taken in the aqua sodium hydroxide solution and phosgene is passed through a organic solvent , in this case say methylene chlorideforming BPA PC or bisphenola poly carbonate .
+   140.66135651128045Now , what is the mechanism , you have BPA bisphenol a present in the aqua solutions of sodium hydroxide , so you have phenolate salt .
+   45.67080268614399Now , what is what is the problem here the only one thing to consider that this is a water soluble monomer , this bisphenola in a sodium hydroxide solution and this phosgene is formed through the organic medium in this case methylene chloride .
+   66.3494178424319So , when this is formed this is a methylene chloride soluble species , so this will stay in the methylene chloride solution .
+   52.49746494762624To react , now if you what to if you what this to react with the bisphenola phenolate ion to form a poly carbonate species , this has to migrate to the interface , this is currently now in the organic phase and this is in the aqueous phase .
+   81.31972940850376So , the reaction the chances of reacting of this two species is low , the chances of this species reacting with this species is low .
+   48.666907721000165So , now , you have a water soluble species , again this is water soluble .
+   17.70194718268554So , now , they can do reaction in the water side of the interface , so the reaction become faster .
+   22.850776081834862So , you have to add this amine catalyst to facilitate the reaction and have the reaction happening in first way , no first space .
+   94.58208372519516The same thing you can do if you what to keep this in the organic medium you can add a phase transfer catalyst in the water side , which will then complex with this bisphenol a salt and bring it closer to the organic medium .
+   65.3632491910116So , either you can add trimethylamine to bring this species to closer to water side or you can add a phase transfer catalyst to bring this bisphenol a ion to the organic side to make the reaction faster .
+   94.51722449083537Now , because reaction is very fast you saw the rate constant of the reaction is very high .
+   20.654778504138562So , the reaction is very fast , so you can do it at low temperature in room temperature and it is usually done at a temperature between 0 to 50 degree centigrade .
+   14.909395430314246Now , because the reaction is happening in the interface and at interface one one reactant is reacting with one of the other reactant .
+   42.36156627895099So , the stoichiometry at the reaction side , which is the interface is always maintained at one is to one .
+   15.174948260800754So , you do not need make a effort to maintain the stoichiometry of the two monomers close to one is to one .
+   22.36942446743012And in other case normal linear poly condensation case you have dimmer , trimer , tetramer and it go slowly one after one , but in this case the monomers comes by diffusion to the interface reacts with the chain end .
+   60.31292475748233Unlike the normal poly condensation or step polymerization process .
+   12.319123121572918In this case the example I showed you polycarbonate the sodium hydroxide was present to neutralize the HCl byproduct .
+   204.53773623510327Then the reactivity will come down the reaction rate will be much lower and it will not happen it will not take place in the temperature we are working .
+   26.294076798517093So , if you start well you can generate more and more interface and by doing by generating more and more interface you can make the reaction the polymerization reaction faster .
+   46.690878693813055And the main disadvantages are that the acid chloride acid chlorides are very costly .
+   89.25568115530723So , you know increasingly people are trying to avoid this root simply to avoid this use of large amount of organic solvent , which are not environmentally friendly .
+   59.160870699806964So , you need to take out the polymerization by precipitation for example , in poly carbonate case the poly carbonate are solvable in the methylene chloride phase .
+   68.70327885650778So , this byproduct as the byproduct HCl is not taking part in the reverse reaction , so this reaction is kinetically controlled .
+   20.15795039932477So , chances of having more cyclics are more in this interfacial polymerization .
+   17.81941779512223Starting from polyester this is not exclusive least of polymers or it is not the detailed synthetic process or all the processes , which are utilized commercially .
+   90.77613509564398But , this reactions we know this direct esterification of alcohol and acids or say ester an acid groups are very slow reactions .
+   121.98863829524267So , you may require high temperature , so this are typical not used commercially this two reactions are not used commercially .
+   91.7592426886538It is a two stage ester exchange process , first stage dimethyl terephthalicd M T is reacted with excess of ethylene glycol at say around moderate temperature and methanol is distilled out to form this compound .
+   182.15894369051082So , this is the most this is the commercial root of synthesis poly and these are the names trade names , which under which under which this poly ethylene terephthalate are sold in the market .
+   63.177729783892296And this is you know it is known as nylon 6 6 and this is very common polymers starting from hexamethylene diamine and adipic acids .
+   47.40937524258135In this case we cannot simply do the polymerization reaction with diamine and diacids you require much reactive component functional group .
+   66.69898421223361And this is known as kepler as a trade name and this is nomex and these are both nomex and kepler have very high melting points .
+   76.15715548802963You know they are used for very high in the application where you require very high temperature to sustain even kepler has a melting point which is higher than 500 centigrade , sometimes it even burn before it melt .
+   61.426467612936875Move to the next one which is cross link polyester in this case one example can be taken is a maleic anhydride reaction with ethylene glycol ; and once it forms the polymerization is complete at the end you have a double bond in the polyester back bone .
+   40.30995800643671Now , this double bond are available to react radically or some other chain polymerization mechanism by itself alone , are you can add a another monomers like styrene or MMA methyl methacrylate and then copolymerized with and form a cross link .
+   72.87746642833959So , you can cross link this polyester unsaturated polyester chains , so by doing this we can make a cross linked network .
+   48.72617630726005Next set of polymers we go is polysulfones and polyketones the generic structure is this its similar to the bisphenol astructure is polycarbonate X is , but in this case X is allied instead of H and Y is either a carbonyl or SO 2 group .
+   146.56394881057076Now , typically this aromatic halides are not very reactive towards a nucleophilic substitution reaction , but because you have a strong electron withdrawing group present here CO or CO 2 , CO or SO 2 this becomes more reactive towards nucleophilic substitution .
+   64.60326468853144And the commonly these are called I will show you the example in the next slide , if you have CO these are called polyketones and specifically this structure is called poly ether ether ketones and simple this called polyether ketone , you have if you have a sulfonegroup SO 2 group in here then these are polysulfones .
+   169.0788918373254So , this is poly ether ether ketone , this is polyether ketone , this is poly bisphenol a polyether sulfone and this is simply called polyether sulfone .
+   115.58145524829588And this is these are the trade names of this polymers in this trade name they are sold Radel and Udel .
+   43.77333396777223So , they are they are again very high performance high performing polymers , which are used at very high temperature applications ; and they can be used in a applications where the constant temperature is say around as high as 240 to 280 degree .
+   39.93378597921825So , they are very you know high performing polymers this poly sulfonesor polyether sulfones , they are amorphous in nature the T g is around one they are also very high T g 180 to 230 and they have continuous use temperature is between 150 to 200 .
+   88.51410970852565Next set we move to poly aromatic polyimides , these are formed by reaction with diamine with dianhydridedi , an aromatic dianhydrideso aromatic diamines are reacted with aromatic dianhydrides , And first this is formed then one cyclization this is this imides are formed these are again very high performing polymers they are used for applications requiring very high temperature and they are known in under the trade name of captain and .
+   141.27208317892558Now , you can always go through any detailed publications or in a detailed text book where you will find out the detail you know detail method of making this polymers .
+   98.02174268732342They are known in the trade name of ultem , there amorphous T g is as high as 215 degree centigrade and there are constant use temperature is between 18 170 to 180 .
+   48.946157564825434This is another example another set of polymers is polyamide imides you take this aromatic diamines with one side poly anhydride and the carbo oxalic acid silica acids to form this amide polyamide imides .
+   174.25076152363255So , these is one example of making copolymers in step by step polymerization method you take say a by functional monomers A B type .
+   137.57964380691487Now , if you have this along with plus if you have say terephthalic acid in the other side .
+   16.016386720765553Now , in this case you make a copolymer , which have this poly ethylene terephthalic unit and also have a polybutylene terephthalate unit .
+   39.59342257568286Now , if you normal in the normal step polymerization reaction , because this goes through a thermodynamically control process .
+   60.98426458423179That means , the byproducts also take part in the reverse reaction and the chains intermediate chains also take part reactions with exchange reaction between them .
+   32.38556312096394So , there is a transfer happening between the extraction is happening between two groups , which means that if the reaction proceed through thermo dynamical control , if the reaction is thermodynamically control controlled .
+   72.6876575216186Then you will always land up in a completely random copolymer , you understand why , because this reaction when they are happening there is slow reaction .
+   49.53174114356654And by doing , so they are always reshuffling between them self at the end you always have a completely random copolymer .
+   31.580910969431272Now , if you are doing the other reaction say for example , if I go back to the polycarbonate example in this case , if I instead of taking this BPA .
+   30.924365176141865And you have taken that is one is to one and you are heating with phosgene .
+   30.731507775759166Now , in this case reaction is kinetically controlled , which means once the polymer all as a matter of cyclics we just talked about few minutes back .
+   37.7860544027899Once they are formed they are not taking part in the reshuffling reaction or reaction with the byproduct reverse reaction with the byproduct .
+   31.61125315343034Unlike the earlier case say butylene glycol and ethylene glycol even if there are were any differences in the activity between two hydroxide groups .
+   71.04978902429662Ultimately at the beginning even if they are making blocky copolymers at the end by doing reshuffling finally , you would land up in a random copolymer .
+   40.43824451377556But in this case , the nature of the copolymer would depend upon the reactivity of the functional group if this functional group is same having same reactivity with the other functional group then it will form a random copolymer .
+   11.255048250137943So , you understand the terminally controlled polymers would give always a statistically random copolymer whether whereas , in kinetically controlled polymerization reaction .
+   97.25698385996566And you have to consider what is the diffusivity ?
+   10.71798662518626You know reactivity coupled with the reactivity if some monomers is diffusing first at the interface it will react faster .
+   84.59460484639581So , when I talking about the reactivity it would also include the diffusivity diffusivity aspect of the monomers is well .
+   84.8038562559892So , if the if the reaction between the one monomer with the phosgene is faster , then it will be a blocky copolymer .
+   46.491765977035094What are the functional groups you require for a step polymers or a chain polymers , so on .
+   31.198663293805247So , you should push the reaction as much as possible and also if you want to build a high molecular weight polymer your r should be close to 1 .
+   9.352763972843308If you want to control the molecular weight , if have want some reason you want to target some molecular weight with both the ends having some particular functional group or no functional group .
+   79.12221586110678Then you should know the strategies if you want to have some functional group at the end of the polymers both side , then you should use the monomers containing that functional groups in higher amount and the ratio should be according to your target .
+   41.83802885835507So , if you design you can design highly reactive monomers , then they will have naturally high equilibrium constant .
+   33.83808557336861And he also should know that why in reality PDI always end up being slightly higher than two because of side reaction cyclization .
+   89.38354230235238And a student should know the condition and you know what are the what are the conditions you know what are the monomers to be used if you what a branching or cross linking .
+   24.055673037462576So , what are the ways you can do that or what are the ways you can have avoid that and what are the utilities or the problem if a student being .
+   31.918958418026417So , if you what to work in the lab or if you join in the industry you should be able to know what are the complete list of criteria , you know we have gone in last lecture to carry out a successful step polymerization .
+   46.041423415685856You should first look for that also you should by know and have a graphs in by this time .
+   97.38599070533601And one including what is the fundamental differences in interfacial polymerization they utilize the very first reaction of diacylchloride or diacylchloride .
+   105.49749192600211And what are the mechanism and what are the problem in interfacial polymerization .
+   9.732007588653966And I also did not I could not include several others .
+   122.76383689965576And you should be knowing the polymers , which I have covered in today ’ s lecture .
+   15.519342004911609Hello !
+   1.0Today we will be talking about immobilized enzymes .
+   5.142425430280979So far we have seen the structure and function of enzymes as they are available in the living cells .
+   11.422658900938103They also can catalyze a number of stereospecific chemical transformations that are otherwise difficult to carry out in a single step by other chemical routes and also a major advantage of mild operating conditions which make them very attractive industrial catalyst .
+   101.54790174549157Bulk of the other industries has not made use of these biocatalysts at least up to the beginning of the last two decades .
+   68.62135706500958If you look at the industrial applications until sixties there was not a very significant application of enzymes in industrial processing .
+   28.591017411686803The major limitation , you also noticed during our understanding of the structure - function relationship of the enzyme , is that they are usually very unstable and that probably is one of the major limitations as far as enzymes are concerned with respect to their application .
+   40.8201423584356Their activity or their function in the normal temperature range also put sometimes a disadvantageous situation in the sense that at those temperatures many of the microbial activities are also optimum and therefore they lead to contamination of products and therefore their industrial application becomes restricted .
+   191.13661942556482Also a major factor in the limitations of the application of soluble enzymes in industry has also been the soluble nature of enzymes that means they have to be used in water soluble form .
+   44.1537932628806When we have to use them in water soluble form it only means that the process has to be in the batch mode .
+   42.898367511866155That means you take an enzyme solution or a substrate solution , add a quantity of soluble enzyme in a batch mode , provide the optimum temperature and pH , carry out the reaction and terminate the reaction by changing one of the operational parameter either by heating it or by drastic change of pH so that the reaction is terminated and then extract the product .
+   54.60909622728605In this whole process the major problem is that one has to discard the enzyme , one has to deactivate the enzyme and the enzyme is usually not possible to be recovered at the end of the process .
+   36.34251622822543Because recovering the enzyme from reaction mixture will be as difficult or as tedious if not more as production of the original enzyme itself and in most cases enzyme being produced by living systems are usually expensive commodities and therefore their deactivation at the end of one batch operation is not a desirable feature and that has been a major limitation .
+   133.96170520183085The two issues of unstability and possibility of their use repeatedly or in a continuous mode has been the major driving force of looking at immobilization as an approach to provide a vector platform for the use of enzyme in industrial application .
+   110.23649921251601A major question that will come is what do we mean by immobilization ?
+   37.28859350954388That is a definition of immobilized enzymes .
+   10.50940605138347This is basically an operational definition .
+   61.92527769127716I like you to concentrate on at least three major phrases built in , in this definition .
+   37.595680783461276That means the enzyme molecule which is homogenously suspended in a soluble preparation has to be then localized in a narrow region of space and this is no longer uniformly , homogenously distributed in a reaction mixture .
+   35.53898142504873An analogy can be made to a heterogeneous catalysis .
+   19.25962124338813In the case of chemical catalysis many of the catalyst are used in a heterogeneous phase , while the use of soluble enzyme will provide a homogenous catalysis .
+   34.04444860577482That means the distribution or composition of every species in the reaction mixture whether it is catalyst or a substrate or a product is uniform throughout the reaction mixture .
+   42.54798612636149The use of immobilization enzymes will lead to a heterogeneous catalysis .
+   17.184881234817393The second phrase which is very important is the retention of their catalytic activity .
+   12.3022414107764Otherwise it doesn ’ t have any meaning to have immobilized enzyme preparation .
+   28.287197501573605Retention of catalytic activity is a very relative term .
+   6.295325913602466So when we say retention of catalytic activity you are implying that a major fraction of the activity must be retained .
+   29.23138828470269The major objective , from the industrial point of view , of immobilization enzyme would be to reduce the cost of enzyme input into any processing per unit quantity of the product to a significant level and that is what is often achieved .
+   38.31806106898654This definition takes care of the three major factors one is the localization of the enzyme or connectivity over a major substrate and such an immobilization can be achieved by different means .
+   62.55538210004238Both the things are feasible .
+   12.16284852524635Let us say an ultra filtration cell in which the molecular weight cut off of the membrane is such that the enzyme is not allowed to pass through and retained as the retentate whereas the unconverted substrate and the product formed is passed through a membrane and can be collected .
+   38.995399293714605We often consider that if you couple a soluble enzyme molecule on to a solid matrix whether it is an inorganic matrix or an organic matrix or a gel that is the conventional form of immobilization .
+   46.91643288511767I presume that you understand what ultra filtration cell is .
+   29.203346162081417You have a stern vessel in which at the bottom there is a membrane with a narrow molecular weight cut off .
+   42.75056662191763In such a reactor if you use an enzyme by putting substrate in and taking out the product which are low molecular weight compounds and enzyme being high molecular weight molecule will be retained in the reactor during use .
+   57.25596958481729Such systems also will be considered as immobilized enzyme systems .
+   17.855620670711364In fact although industrially such systems are not very commonly employed as far as the academic study is concerned these systems have been applied .
+   86.3961954151446One of the early systems which were applied was way back in late sixties and early seventies to hydrolysis of cellulose and starch .
+   92.79296619323885Because the starch product is low molecular weight glucose similarly cellular product is also glucose .
+   139.28153827896114That ’ s why it has not industrially become very attractive .
+   35.38886595861705There are problems still as far as the cost of the membrane is concerned the following operational problems .
+   51.81001597417007Today in the literature we will find probably a few thousand methods of immobilization and not that all of them have been commercially viable , because commercially viability is an issue which is linked directly to economics , the power of economics .
+   101.53415430149246So it does not restrict to but what we are talking of the basic definition of immobilized enzyme that you can do it in that matter .
+   29.317786947587976As a matter of fact this is an artificial cell as you can consider let us say living cell itself .
+   18.910042930284817In living cell also the enzyme is entrapped through a semi permeable membrane which does not allow the enzyme molecules to pass through and some of the product molecules from the cell also are usually ripped off .
+   45.64567203941478One is that the scientist wanted to apply some of the enzymes for industrial processing and obviously for industrial processing you need certain operational advantages The major disadvantages in the case of the enzymes is the restriction in the best mode of processing , the stability , some of the physico chemical properties in respect of pH optimum , temperature optimum , substrate specificity and they could all be taken care for industrial processing .
+   101.54165845824105The second motivating factor was many people also wanted to study the enzymes in their natural habitat or at least as close to the natural habitat .
+   129.89163390960812When we talk about the enzyme , structure and functional aspects , we are missing one thing that whatever studies have been made in those aspects they have been made after isolating the enzyme from a cell .
+   106.54021142516571If they can try to bring as close to the living environment and the process which they adopted was immobilization .
+   74.43933618352672Because most of the enzymes which people understood very well were the membrane bound enzymes and they noticed that in the membrane bound enzyme there was some kind of a physical coupling between the enzyme and the insoluble membrane as a matrix .
+   59.7883647153597After isolation from the cell you are trying to bring back because you see when they are in a living cell you have no means to study them excepting indirect calculation that this might be happening and this is the rate of flux .
+   63.915831736043366The immobilization offers n number of advantages and one of the major advantages which we have already talked about in the definition itself is its reusability .
+   52.791996078989115Instead of the possibility of using only in soluble mode in a batch reactor you can use in a variety of application modes .
+   60.99983896010411A variety of reactor types can be used for carrying out the transformation or reactions instead of using only a batch stirred reactor as we can afford only for a soluble enzyme .
+   44.044852313353616Another major advantage is the rapid termination of reaction .
+   18.385313449805793In the case of the soluble enzyme the only means of terminating a reaction is to deactivate the enzyme either by drastic change of pH , heating , boiling in a water bath or adding some kind of chemical , irreversible inhibitors of an enzyme , which can inactivate the enzyme .
+   74.46027675738608But in the case of immobilized enzyme you can repeatedly terminate by physically separating it .
+   29.909486852023743Even if you use in a batch mode by physically filtering off the enzyme preparation , the reaction is stopped .
+   39.88130105915992That gives you a very great operational significance and the use of an immobilized enzyme also leads to relatively purer product .
+   52.98870352076105In the case of a batch mode the enzyme is going along a product stream and in some cases the discharge of proteins into the product stream may cause purification problems .
+   75.86902768006946Therefore the use of immobilized preparation in those cases will lead to a much purer product or significant convenience as far as the downstream processing of the product stream is concerned .
+   34.984526834743754In the case of food constituent we don ’ t want the enzyme protein to go as a product in the product stream .
+   33.56237150131491In most cases the immobilization has also resulted in some altered physico - chemical properties .
+   32.61370101972194When I say physico - chemical properties the most important properties probably for which enzymes are considered as poor candidates are their stability .
+   110.55381041505552In most cases the stability is enhanced and therefore it becomes a desirable feature .
+   31.415252199482662The other altered physico - chemical properties are optimum pH and specificity .
+   62.44950763632507But specificity also has been a factor .
+   13.272345510484136In fact even one can have an altered km for an immobilized enzyme as compared to soluble enzyme which again depending upon the same feature as optimum pH that is the matrix is charged and the substrate is also charged where the partitioning effects , the apparent km might also change .
+   42.90776639252756The third motivating factor was the use of the model system for natural enzymes that we discussed and which also has been a very significant reason for immobilizing enzymes .
+   36.85446302746595In fact any immobilized enzyme system has three major constituents , three major players The first player is the soluble enzyme .
+   80.56745493815045We have to start with a good preparation of an enzyme isolated from a living system produced by fermentation or isolated from animals or plant cells .
+   87.16728959474557You need a soluble enzyme .
+   5.628111265199402The other is carrier .
+   11.789806801573832You need a matrix to which the enzyme can be immobilized in general .
+   16.063467453315855There might be some methods which may be carrier free .
+   22.896968788800603For the sake of convenience let us assume that we have to isomerise glucose to fructose with enzyme called glucose isomerase .
+   32.67517641049942When we talk of the enzyme for immobilization if we want to …. .. immobilized enzyme preparation what properties are important for choosing the enzyme source ?
+   51.07517665399024The major factor is that we will look for an enzyme preparation which has the high specific activity .
+   20.280618696143748This will depend upon two factors one is the source of the enzyme and the purity of the enzyme .
+   12.889673108844184That means processing cost can be much lesser that is you have to put a much lesser protein for achieving the same catalytic function .
+   88.76203065796422One of the major constraints of operational parameters is for many processes the operational parameters required for an enzymatic catalysis should not induce any side reactions .
+   72.91753716319015For example take again the example of glucose isomerisation .
+   38.740431669852825In such case if you can have an enzyme preparation which has either a neutral or a slightly acidic pH optimum it is desirable .
+   66.87759509057638The third factor is stability .
+   13.138018913674157One needs to choose the enzyme and its further processing for purification so as to have the three properties which are in the positive region and we choose the soluble enzymes on that basis .
+   87.60153758855624In one gram of immobilized enzyme , the enzyme preparation will be probably only a fraction of milligrams or if not more than one or two milligrams .
+   54.023295973692406We are taking a water insoluble carrier .
+   20.380068937568478I am using a general term reaction environment mainly because while most of the reactions are to be carried out in aqueous medium today there are requirements that many of the reactions may be carried out in organic non - polar medium .
+   44.01733144128685Logically the carrier should also be non - toxic to the enzymatic reaction and this should not act as an inhibitor or some kind of an irreversible inhibitor to the enzyme catalyzed reaction .
+   32.40193560237495Therefore carrier itself should be very stable otherwise the stability of the enzyme will not have much of meaning .
+   41.05026087374495The carrier should also have a large number of sites for binding of enzyme .
+   7.96783921527891To have a high functional reactivity one need as much of enzyme .
+   64.32443807554905It will also depend on the porosity on the carrier .
+   16.486108549415544The porosity of the carrier depends on the surface area which will also result from the porosity as well as the particle size .
+   20.997776891653295Normally we will prefer a carrier which is not very expensive .
+   28.857928085353937In an inexpensive carrier one may say that you may not be able to meet the other desirable properties .
+   35.499119497868655One can choose an expensive carrier provided the carrier can be regenerated at the end of the exhaustion of the enzyme .
+   29.686076303104468At the end of the cycle of the operation of an immobilized enzyme preparation , if the carrier can be regenerated it is desirable even if its cost is high .
+   26.966577685541626In fact you will notice that in some of the industrially used immobilized enzyme preparations the low cost carriers has been rejected mainly because of some of the undesirable properties that they cannot get you a very high enzyme loading on them and many of the expensive carriers have been used but only under the condition that they can be regenerated .
+   51.515374422409366Carriers like organic ion exchange resins like D I cellulose and di Sephadex have been extensively used for immobilization of enzyme by absorption and after use when the whole enzyme is desorbed the carrier is again available for reuse .
+   207.36221700951526To take care of all these desirable features of carrier the properties that you look in a carrier are chemical composition , specific surface area that means surface area per unit weight of the carrier , particle size and ratio of hydrophobic to hydrophilic groups mainly to achieve a very high degree of loading because one has to choose all the functional group of the enzyme molecule for coupling and therefore hydrophobic to hydrophilic groups on the carrier and finally the cost .
+   59.42138262767601These are the four general features of properties one has to look in the carriers .
+   37.51281582025011A very generalized scientific approach to classify them will be on the basis of their porosity .
+   49.45443831703704That is they can be non - porous .
+   33.3929791476398Its use in CSTR is difficult mainly because of its loss through the product stream if it is too fine a particle .
+   49.626376422321385Therefore non - porous matrices usually have a limitation of low surface area .
+   55.76155691423246Mainly they have been used extensively for bio medical applications where an additional desirable feature other than the ones we mentioned in the carriers is the prevention of interfacial immunological responses in the bio - medical system .
+   87.98704426929476The other group of matrices is porous matrices , the most preferred kind of material that are used for industrial applications and these matrices are control pore glass , control pore titanium and variety of other synthetic tailored materials which have been produced commercially for generating a high porosity for coupling of enzymes on them .
+   119.15151427975262They are porous in nature but they are usually flexible in the pore size or thermoelastic and the pore is flexible and the typical examples which have been used are collagen , poly acrylamide , gelatin and a large number of other gel structures have been used .
+   62.987940944623006In the gel structure you can entrap the enzyme in the gel matrices and the advantage is that the enzyme can experience almost the same kind of water activity or the environment as very close to what is obtained in the case of a living cell .
+   39.999684483079484Let us consider the gel matrix and the enzyme entrapped in the lattices .
+   18.191641646735846The gel will not allow the enzyme to pass through but the small molecular weight substrate and product can easily be allowed to get in or come out .
+   55.26110363110548Then in the case of proteins almost like what we talked about gel structure , collagen and gelatin are typical examples and there is a whole range of synthetic polymers which have been reported and used for immobilizing enzymes which are usually polystyrene based , vinyl polymers , polyacrylamide and so on.You can classify and a large variety of carriers are available for use for immobilizing enzymes and the choice will depend upon various properties that we have listed .
+   55.76410645354796So , welcome back to this course on polymer chemistry , and in this lecture today we are continuing our discussion which is left over from last lecture on frictional properties of polymer in dilute solution .
+   11.4354605768971We plan to give just an overview of the techniques which can be used for a polymer determination of polymer molecular weight today .
+   21.856594860101808Now let us continue the discussion we are having in last lecture .
+   2.802112031458504Now as we understand in last lecture that most of the chain most of the polymer chains are flexible , and when they are dissolved in solution and they are moved in solution , they actually carry the solvent molecules which are attached to the polymer coil ; they move along with the polymer coil .
+   36.05086518848617Now , it can be easily shown to have this expression ; let me show that .
+   30.046484501402258The number of polymer and the moles of polymers can be expressed by mass of the polymer divided by the molecular rate of the polymer V h by total volume .
+   14.527921242599849This gives m by V N A V h by M ; m by V is the concentration , c concentration in mass per unit volume .
+   31.587025455755835So , we can write this as c by M N a V h .
+   16.024508625937955So , you can directly write this expression from this .
+   18.969173517865457Now I can rearrange it ; because increasing viscosity is given by limits c tends to 0 eta s p by c which is basically given by N A eta s p by c which is you can write from here , you divide by c and you get this expression .
+   22.74276183988683This is the volume of a polymer coil one polymer coil and this is the molecular weight ; that means mass of one polymer coil ; that means intrinsic viscosity relates inversely to the density ; it is inverse to the density of the random coil .
+   50.021751882614176As we discussed for branched polymer if you compare between linear and a branched polymer from same molecular weight , the branch will have more compact volume .
+   45.780587831873824So , it may have much lower hydrodynamic volume per coil .
+   44.8113177527189So , intrinsic viscosity does not depend only on the volume ; it depends on inverse of the density .
+   21.444632879705043If the two polymer coils have same hydrodynamic volume , irrespective of their chemical and structural difference , the product of intrinsic viscosity and molecular weight will be same .
+   18.454830132920563So , hydrodynamic volume will be lower in this case .
+   6.38733186974603So , molecular weight is M ; in this case molecular weight also M .
+   32.81884544357766Segment density of the coil is lower ; segment density is higher .
+   33.74515010530864Now we will further treat this expression and see whether we can arrive at an expression which can help us in determining the molecular weight by dilute solution viscometry .
+   23.136472638881706So , this title is probably inappropriate at this moment .
+   77.39187557917761We have got this earlier .
+   22.48238838652177So , I am writing this .
+   6.670545232731084This is the volume of this particle .
+   13.25094467672938Now remember while discussing the radius of gyration , we discussed that radius of gyration is almost like the radius of that sphere .
+   25.221069773615213So , the volume V h would be proportional to the R g cube ; volume given by four - third pi r square , r is this r .
+   113.38299807835294So , we can write that V h is proportional ; this proportionality sign is missing here .
+   25.909616059468224V h is proportional to the radius of gyration to the power 3 and radius of gyration can be written as the expansion factor and radiation gyration for the unpart of chain .
+   35.291536532221215Now , we can remove this proportionality by applying or introducing a constant ; this is a constant .
+   77.36448085744753So , remember this should be h because we have mentioned h in the last lecture .
+   22.86152471146516This is expansion happened due to because the polymer coil is in solvent .
+   59.932795923391105We can rearrange this expression and write like this which is just a mathematical rearrangement ; you can write this .
+   23.387306674356957So , what we are doing here ; this is a constant as I just discussed , this is also constant and we are clubbing these two in another constant and you have the expansion factor and molecular weight to the power half .
+   30.109160798373356Remember we just discussed in last lecture which just means this is not exactly , but this is approximately proportional .
+   41.27179708141583So , you can now write ; you can express this is in terms of molecular weight and then couple those two and write k is M to power A .
+   48.99508913574597So if you change any of these three polymer solvent and temperature , then k and a value will be changed .
+   12.178104830578464So , these values also will change .
+   14.447703357952046But for linear flexible chains , it will be between 0.5 to 0.8 and for theta condition what we have seen earlier for theta condition , what is the value of a s or expansion factor for theta condition efficient ?
+   60.46457562541523So , it is same as if there was no expansion of the coil due to the presence of the solvent .
+   21.190375911000608So , the value of expansion factor becomes more than one .
+   11.28358959608512So , a value becomes more than 0.5 .
+   16.22578328201539a is more informative in polymer ; you will find that a is more probably more important than between these two constant .
+   63.674661182023115So , the expansion factor will be ; if you compare the expansion factor of unperturbed linear polymer chain it may go down below that below one .
+   59.85644881708758As I said we will use this expression Mark - Houwink expression when we try to determine the molecular weight ; we will discuss the determination of molecular weight of polymer chain by viscosity method .
+   25.611074866781763Now let us start our very important discussion how to determine the molecular weight and at the beginning what I would like to do I will just give an overview of the techniques which are available and used to determine the molecular weight .
+   22.619298568130684Actually you can divide these techniques into two types ; one is absolute molecular weight determination where we do not require any calibration curve of priority by known polymer molecular weights .
+   57.12182504066432And there are relative methods where you actually require a calibration curve by known polymer molecular weight where the molecule and the molecular have been determined by these absolute techniques .
+   82.36033059957705We will discuss the principle and the other things the process while we discuss this techniques individually .
+   77.60028706389609Instead of spending more time on this table , which we will discuss in more detail when we discuss the individual techniques , let us move to the actual techniques .
+   51.50436785688682Now we have seen that this is the expression for dilute polymers , the intrinsic viscosity of polymers in dilute polymer solution and what I can find out .
+   22.06835986753444So , the molecular weight given is M v where M v is viscosity average molecular weight .
+   18.522403099715365Now as you know that radial polymer mixtures , there are numerous polymer chains having different molecular weight .
+   36.37774355612646So in intrinsic , these are the assumptions we are making that specific viscosity can be obtained by summing up the specific viscosity of the individual polymer chain .
+   56.483769819976416So if the solution is very dilute , then we can write eta s p i is c i eta i .
+   32.94022633973336Third is the intrinsic viscosity of i chain is given by k M i a ; that means what we are assuming that k and a values are independent of the molecule .
+   35.850430499476346So , eta s p i is the intrinsic viscosity of n i moles of molecules having molecular weight M i present at a concentration of c i per unit volume .
+   28.066484526853742So , c i can be written as n i is the number of molecule ; M i is the molecular weight of that molecule .
+   19.09323059167985So , this gives you total mass of i molecule divided by volume mass .
+   47.8945126694973We can continue to write this is as summation of eta i c i by c .
+   88.60277014142106So , we can write n i M i by V .
+   4.174080733231166Now we can write ; so you get this expression .
+   10.263403363997659So , you get this expression .
+   3.5859887983066208So , in the expression of this m V we just found out that it is having the expression of this .
+   26.095206667352052If a is one which we just we discussed it is for highly elongated rod like molecule , then m V would be same as M w .
+   32.987257770744If a one then it will be n i M i square by n i M i .
+   14.519458359044805Let me write in a fresh paper .
+   17.222741473396535So , how to get the value for M v ?
+   6.312612274770622If you know k and a ; if k and a are known , obviously you can find experimentally the value of intrinsic viscosity and then if you know k and a value , then you will be able to find the value for M v .
+   22.11777556159238What happened if k and a are not known ?
+   5.857559745670831So , if you plot log of intrinsic viscosity with log of viscosity average molecular weight , the intercept will give you log k and the slope will give you a .
+   25.143120615053373For unknown sample , then how do you determine the viscosity average molecular weight ?
+   8.687121159586182Then what you need to do ; you need to plot log of intrinsic viscosity with many known molecular weight and then you do you do a experimental take five to ten samples and make dilute solutions from that determine the intrinsic viscosity and plot this to get log k and a .
+   64.29815473907138Now the question is here ?
+   18.87987888768009You need to plot log M v ; that is what you need to determine .
+   22.15439259863873If you are plotting here log m v , now you are again targeting M v for the unknown molecules .
+   75.54960561925921Now known molecular weight can be either M n or M w which you already determined by the absolute techniques .
+   23.385879033527353Now actually this is supposed to M v , the expression gives you k is eta is k M v to the power a .
+   77.99180385865601So , ideally you should have M v value for all these samples which you do not have because that is what you are determining .
+   51.62775834672238So , what samples you will use for calibration where M v is much closer to any of the known molecular weight , say , M n and M w .
+   44.34326957977421Now if you have very narrow dispersed polymer , then you can consider M w or M n is same as M v .
+   16.331932829688306If you have very narrow dispersed polymer then M w are very close to M v .
+   12.79035524490185So , you can take those M w ’ s and use here and do the calibration curve .
+   43.428827664990266Then you can determine the viscosity average molecule rate of the unknown sample which k and a is not known in the literature .
+   46.062882332758434Now how will you determine ?
+   5.9914583202609215Eta is given by limit c tends to 0 eta s p by c .
+   3.8913889780649717Now if for a dilute solution , the plot of eta s p versus c is linear only till your eta r is less than equals to 2 .
+   36.943304122272025So , if your eta value of the solution is twice 2x the eta 0 maximum , then you can find out that eta s p is linearly related with the concentration term .
+   52.13588628236118So , we can write the eta s p is linearly related to c concentration only till eta r is less than 2 .
+   38.92347388166812So eta s p by c can be written as , this is the slope of that linear relationship between eta s p by c with c and that is only applicable till eta r is less than 2 .
+   22.023441757685127So , we need to find out something else where that constant can be applied to any of the molecular rate of the polymer chains .
+   20.44201104988215So , Huggins found out that k versus eta square is linear and pass through origin ; k is the slope .
+   74.49157402112522So , we can write d eta s p by c by d c ; this is the slope k that is proportional linear .
+   25.378494187146238Now because Huggins has established this relationship , sometimes this k 1 is written as k H .
+   128.57262423857085Now this is constant for a particular polymer solvent temperature system .
+   5.459407906994558It is of course independent of M w of the polymer .
+   19.5847215207224Now in this case from this Huggins expression or Huggins equation , you only need the value of k H .
+   45.50468307775604So the solution remains very dilute , then you can keep the expression for eta from the intercept and if you know k H , then you can get the expression ; you can get the value of molecular weight directly .
+   31.760125184372946So , it will be a negative quantity .
+   16.228153542212713In case of Kramer that constant is negative we just saw .
+   87.11079827912613In case of Kramer this is negative , so the slope will be negative .
+   21.255830677467845So , this will be eta reduced plot for eta reduced and the other one will be plot eta inherent .
+   59.386646377815424So , these are all in your hand .
+   10.113235572733155So basically you plot , you make different solution with different concentration and plot ; with this you get the intrinsic viscosity .
+   53.510871976228394So once you know this , if you know k and a , you can use this expression to find out M v .
+   15.079141714659551And you find out the intrinsic viscosity for this given polymer and then by plotting log intrinsic viscosity versus log molecular weight , you can get k and a value ; from that you can get this M v .
+   37.38176599435815It must be in dilute solution , a very dilute solution region and also you need to remember that relative number in this method , you cannot get a measurement for an unknown polymer as such .
+   67.6905312558704It is not absolute method ; it is a relative method .
+   12.290905147230232We were yesterday talking about reversible inhibition that is those inhibitor molecules which reduce the rate of an enzymatic reaction by reversible interaction with enzyme molecule and after the inhibition is over they can be physically separated and the enzyme can be recovered in its original catalytic functional form .
+   68.95194553277082These reversible inhibitors are often categorized into three major classes based on certain general features and some of the general features which are used to classify them are : One is pattern of binding of the inhibitor to either the enzyme molecule or the enzyme substrate complex or in another words it leads to specific mechanistic steps which are involved in the inhibitory effect .
+   43.57279329133556That means the enzyme reaction rate is modified or rather reduced to a new state in the presence of those inhibitor molecules .
+   42.15873065483769A particular class of inhibitor gives you a typical effect on the value of Km or Vm .
+   14.665714999769385Finally the type of inhibitor also influences the ultimate degree of inhibition .
+   45.75345917112102As I mentioned earlier the degree of inhibition is defined as i = v0 - vi / vo where i is the degree of inhibition and v0 and vi are the enzyme reaction rate at concentration of inhibitor at zero and at some particular concentration i for the enzyme reaction .
+   59.9146874237763The maximum reaction velocity remains unchanged .
+   3.952418557166749Then degree of inhibition for the competitive inhibition also depends upon all the parameters and the expression for degree of inhibition for competitive inhibitor can be written as Km.I / Ki i = { Km ( 1 + I / Ki ) } + S The degree of inhibition depends on substrate concentration , inhibitor concentration and also on Km and Ki .
+   45.324322014335436This is what we had discussed yesterday .
+   22.162968457328255Now if we come to the next major class of reversible inhibitor which is a non - competitive inhibitor , the classical feature of a non - competitive inhibitor in terms of binding with the enzyme or the enzyme substrate is that the inhibitor does not influence in any way the substrate binding .
+   38.21543017126628Substrate as well as the inhibitor binds reversibly , randomly and independently at different sites .
+   16.53951855278126That means the binding site on the enzyme molecule for the substrate is different from the binding site for the inhibitor molecule .
+   14.91606716884253The enzyme molecule binds to both ; substrate as well as inhibitor and the resulting ESI complex is functionally inactive .
+   31.41573536147881Therefore one can look at the reaction mechanism as k1 k2 E + S ES E + P k - 1 A classical route involving k1 , k - 1 and k2 .
+   21.50691692116717E + S ES E + P + + I I EI + S ESI The enzyme can also bind to inhibitor giving EI and because the binding site of the substrate is different , EI can again bind to form ESI and the ES can also bind to I to give ESI .
+   63.49877978163103But only thing is that this ESI complex once formed is catalytically inactive and does not lead to product formation .
+   46.99105053380528In a simplistic mechanism we notice that we have a dissociation constant Km for the enzyme substrate binding and dissociation constant Ki for the inhibitor binding .
+   39.86428459428718Similarly when substrate binds to EI complex , dissociation constant is Km .
+   44.36623286222438Under such conditions one can write the rate expression for a non - competitive inhibitor as S .
+   22.253155422241555Vm / ( 1 + I / Ki ) v0 = Km + S One can very clearly visualize that the effect of a non - competitive inhibitor is to influence the maximum reaction velocity and maximum reaction velocity is reduced by factor of ( 1 + I / Ki ) whereas the Km value remains unchanged .
+   43.5344278177859There is no effect on the Km value .
+   3.5976490865291915The modified maximum reaction velocity is equal to Vm ’ = Vm / ( 1 + I / Ki ) If you look at into the mechanic concept the total fraction of the enzyme molecule which was originally present for catalytic function has now got distributed into ES , EI and EIS and only a part of it which is in the form of ES is catalytically functional and therefore the maximum reaction velocity which is a function of enzyme concentration is reduced .
+   65.58323348285623So the net effect on the maximum reaction rate is experienced .
+   19.962473657199858It is the E0 which is modified or reduced by a factor of 1 + I / Ki .
+   28.22925010129571Once the inhibitor is present the E0 will be distributed into free enzyme , E , ES , EI and ESI .
+   149.34196463477426E0 is not reduced but the effective total concentration of the enzyme , E ’ 0 , which is catalytically functional is reduced and it is only the ES component which is catalytically functional .
+   67.91839909789736The second part which is demonstrated is the catalytic function which is given by K2 , the turn over number .
+   18.61208798630972That can be influenced by binding of the inhibitor .
+   8.378700537633827This is where the question comes that when the substrate and the inhibitor both are bound it influences the whole molecule in such a way that catalytic function is lost .
+   39.62732390225216It is a dead end complex and then the binding site on the enzyme which is bound by the substrate is not able to give the product .
+   17.358894081501248The double reciprocal plot in the presence of non - competitive inhibitor is given as 1 / v = Km / Vm ( 1 + I / Ki ) .1 / S + 1 / Vm ( 1 + I / Ki ) In the case of a non - competitive inhibitor both the slope as well as intercept will undergo a change and both this slope and intercept has increased by a magnitude 1 + I / Ki and therefore if you look at the pattern of the Lineweaver Burk plot you get an increasing concentration of I .
+   26.35407688748252Let us assume that this is I = 0 and some values of I as I1 and I2 .
+   28.246491733434706The slope and the intercept are both increasing by a magnitude of 1 + I / Ki .
+   25.091416397228183Therefore one can determine the value of Ki as we saw in the case of competitive inhibitor by a secondary plot .
+   9.53327626823861That means either you determine slope or intercept at different inhibitor concentration and make a plot between I and slope or intercept .
+   89.99377342789835You will get a straight line because slope will be equal to Slope = Km / Vm ( 1 + I / Ki ) Therefore one can determine the value or magnitude of Ki either by plotting the slope verses the inhibitor concentration or by intercept .
+   38.88226104978566Either way one can determine and that can give you the magnitude of inhibition constant .
+   22.570794711324368The third category of the reversible inhibitor is un - competitive inhibition .
+   16.122106772977812Only when the substrate is bound to the enzyme it can bind to the enzyme substrate complex and after binding of the inhibitor the ES complex becomes an inactive complex and the inhibitor does not bind to the free enzyme .
+   20.11063245274428This is the dissociation constant Ki , classical Km and K2 .
+   27.762263107366074Such situations are very rare as far as the unisubstrate reactions are concerned .
+   58.179822325633126Most of these cases are usually related to bisubstrate reactions particularly because you notice here that the inhibitor binds after the substrate is bound .
+   46.08122844708396In cases only where there is ordered sequence of binding of the ligands , the un - competitive inhibition is feasible .
+   35.66222791262296In cases where the binding is random , that means the inhibitor and substrate can bind randomly without any sequence , the mechanism of un - competitive inhibition is very rare .
+   55.510625249368196The idea of un - competitive inhibition has been very , very useful in understanding the reaction mechanism for bi substrate reactions .
+   32.76579948184636In the case of an un - competitive inhibition the reaction velocity can be written as S .
+   6.671494888860551Vm / ( 1 + I / Ki ) v = Km / ( 1 + I / Ki ) + S Km ’ = Km / ( 1 + I / Ki ) ; Vm ’ = Vm / ( 1 + I / Ki ) Both the parameters are reduced by a factor of ( 1 + I / Ki ) and the double reciprocal plot in the presence of un - competitive inhibitor will be 1 / v = Km / Vm.1 / S + 1 / Vm ( 1 + I / Ki ) Therefore you will notice that the un - competitive inhibitor does not change the slope .
+   38.300251330794104The typical pattern of an un - competitive inhibitor looks like parallel lines where the slope doesn ’ t change but the intercept value 1 / Vm is changed .
+   92.3818276657089It is increased by a factor 1 + I / Ki .
+   13.070675248678556In many cases we will also notice that the actual inhibitor does not follow a very typical pattern and very often we end up with a profile that intersects neither on the y - axis nor on the x - axis and intersects somewhere in the middle point .
+   38.255992087156706This is a typical case of a non - competitive inhibition .
+   13.556919079191879In non - competitive inhibition we considered the binding of the inhibitor to either the substrate or the free enzyme .
+   11.362676643313936The dissociation constant for binding of inhibitor to enzyme may be different from the dissociation constant for inhibitor binding to ES complex and there might be an interaction factor of alpha .
+   26.808102800619057E binds to I with the dissociation factor of Ki to form EI .
+   108.60239776378017ES binds to the inhibitor with inhibition constant of a Ki to form ESI and substrate binds to EI .
+   70.3467968082593If you replot the modified intercept as a function of inhibitor concentration it will give you a Ki and therefore value of a can be determined .
+   53.079296319913475They are mixed type of inhibition patterns and mixed inhibition pattern are attributed to modification in the dissociation constant as they are obtained .
+   34.92880953953743Another general feature which gives you the properties or the characteristic of any type of inhibition pattern is degree of inhibition .
+   24.973676400992765If you recall from all the rate expressions that we wrote for the different types of inhibition pattern i = v0 - vi / v0 For non - competitive inhibitors , if you substitute the rate expression for the inhibitor and uninhibited reaction for the non - competitive reactions the value of I will be I / Ki + I which indicates that the degree of inhibition is independent of substrate concentration , unlike in the case of competitive inhibition where increasing substrate inhibition can significantly decrease the degree of inhibition .
+   52.1632229356363( 1 + I / Ki ) The degree of inhibition will rise from S = 0 when there is no reaction to a limiting value of 1 + I / Ki at very high value of substrate concentration .
+   30.153074367059563When the substrate concentration becomes very high , the degree of inhibition will be 1 + I / Ki but it will depend like competitive inhibition on all the parameters , the substrate concentration , inhibitor concentration , Ki and Km .
+   33.56162032802607In the case of mixed inhibition , the degree of inhibition will be largely dependent upon the magnitude of a .
+   15.829363571662428The mixed inhibition is a special case of non - competitive inhibition where otherwise substrate concentration does not influence the degree of inhibition .
+   15.90865427776924So these are some of the typical categories of inhibition pattern which are commonly noted and they have a key role to play in understanding the mechanism of variety of complex reactions particularly the bi - substrate reactions .
+   35.350843921714045In the case of single substrate reaction , that is what we have been talking so far , the life is simple because there is only one substrate and we are concerned with the binding of the substrate .
+   12.431685995804667In the case of bisubstrate reactions we have much more possibilities , much more types of mechanistic approaches that are feasible and they are taken into account .
+   35.899040521578385When we say very high substrate concentration , S &gt ; &gt ; Km and we are talking of zero order design and then the degree of inhibition at very high substrate concentration will be significantly very high because then it will reach the limiting value of 1 + I / Ki .
+   26.308120794536215Km becomes K and S gets cancelled and then degree of inhibition will be I / Ki. ( 1 + I / Ki ) .
+   42.75905488794611If you look at a very generalized scheme of inhibition patterns kES E + S ES E + P kEI kESI EI ESI kES If you consider each of the reversible steps , we are not here really concerned with the irreversible step because that determines the rate of the reaction , the interaction of the reversible step the dissociation constant for this step is KES , this is the KEI , this is KESI and this is also KES .
+   90.46845330851849KES and KEI will have definite magnitude .
+   86.3977073841995That means the enzyme can bind either to inhibitor or to a substrate and KES and KEI will have definite magnitude but the KESI either will be infinity and that is the typical case of a competitive inhibitor .
+   102.13273198316534In the case of a non - competitive inhibitor KESI will be equal to KEI .
+   17.03785504538065That means the inhibitor cannot bind to the enzyme .
+   13.601064332974103The three cases are typical examples of three extreme situations of the inhibitor binding .
+   71.52369189715618In the case of mixed inhibition they are not identical but they have a magnitude and both are related by ratio of a and which determines the degree of inhibition .
+   21.845873946944213In the case of un - competitive inhibition , the dissociation constant for the binding of inhibitor to the free enzyme approaches to infinity .
+   10.115426115274774With that view I think we would like to look at the other bisubstrate reactions subsequently and we will stop at this point .
+   20.127467770457308Welcome to this lecture fourteen of the course on polymer chemistry .
+   14.095524557370208Let us just recap couple of minutes on the topics we covered in last lecture .
+   22.463236338614024We talked about the dependence on temperature , dependence of rate of polymerization and molecular weight on the temperature for radical polymerization initiated by different mechanism , thermal initiator , photochemical initiator and redox initiator .
+   39.6192608963552We in summary we knew that the initiation process is more slower and had the highest activation energy for thermal process .
+   82.12308563406015And also E d for thermal was higher than E d for redox than E d or a photochemical process .
+   68.26042067907972So , between this three processes thermal process redox process and photochemical processes .
+   128.23195702232712In case of molecular weight , again similar order , the molecular was getting dropped or reduced with increasing temperature mostly for thermal initiated reaction then for redox reaction and for photo chemical reaction because E d is actually 0 .
+   126.85448861282049It was actually going up mildly .
+   57.3046698253312And we from this expression we know that every temperature ; typically what we do in a in lab you actually start a reaction say in a beaker or in a round bottom flask and keep in a oil bath maintained or in some other maintained in a constant temperature .
+   102.06810985783258Now , each temperature you can consider , your reaction temperature you can consider as a ceiling temperature .
+   12.072365497552854And typically , for the monomers which we know undergo polymerization process , this equilibrium value of the free monomer concentration is very low .
+   13.882345116352418So , we consider we assume that the polymerization is easy and polymerization undergo the monomers undergo almost quantity polymerization or convert almost nearly hundred percent .
+   177.61735521255943If we increase the temperature of your reaction then what happens , M e goes up .
+   12.064926076318349So , if you choose to do in a higher temperature then you will always land up in a higher amount of unreacted monomer even if your reaction is complete or reached equilibrium .
+   48.1579413996732269 degree the free equilibrium concentration of the equilibrium concentration the free monomer alpha methyl styrene was equal to the pure monomer concentration .
+   31.68742699911742So , they do not take part or contribute too much in the delays value of polymerization , is basically that translational entropy drop for the monomers and which practically does not depend on the monomer structure .
+   41.64725378585744Now , del S and del G 0 .
+   4.092744378084335So , let us compare between this two values .
+   7.787164540154654Now , del S del H in this case is for pure monomer .
+   16.91169362208801Pure monomer is getting converted to a pure polymer which is completely amorphous or slightly crystalline .
+   22.354519383469334Now , let us compare the values between few monomers and see whether how the monomer structure contribute to the values of , now the simplest monomer is ethylene and in case of ethylene this is from a pure gas to a polymer solid polymer .
+   64.04949771949568This is 93 kilo g per mole and this is 155 , compare this with this vinyl acetate .
+   33.41653410945954The gas gaseous monomer is getting transferred to a polymer .
+   21.02355105205518This is minus 88 minus 110 , acrylonitrile minus 76 minus 109 , methyl acrylate 78 , M M A minus 56 , propane minus 84 , one butyne minus 84 , isobutylene minus 48 , two more styrene minus 73 and alpha methyl styrene minus 35 .
+   244.45288375500206This is minus 100 , minus 104 , 121 .
+   8.573656136636911Now , as I said that this will be definitely higher because you are talking about a gas phase reaction or gaseous molecules is converted to a solid whereas , this case it is all liquid monomer you are talking about .
+   32.88938932084239Obviously this alpha methyl styrene have a much lower del H value .
+   14.240599075498617Resulting polymers is have much higher strain compared to if there was no such bulky groups .
+   26.09086622898743So , as a result alpha methyl styrene has much lower del H value compared to the styrene .
+   12.997001837158104Similar case for M M A , M M A also a one one substituted and same logic can apply here because these are resulting a strain polymer the del H actually .
+   120.5864139857099You can compare between the values between M A and M M A .
+   33.49739918947209If we compare between M A and M M A they are very close .
+   34.626685697403936They are close , but M M A is having much lower because in case of one one substituted the strain is much more compared to if have a only one substituted monomer .
+   66.98489065185419And this case presence of electron withdrawing C N group this will be more stabilized .
+   56.12128265074981So , anything you do to stabilize the double bond it will lower the magnitude of the del H p .
+   32.140013521077975If you do anything which will increase the strain in the resulting polymer that will also reduce the decrease in the value of del H .
+   26.556339363832922Obviously one tribu butyne has much more stabilization .
+   31.917736461522374Actually can form hydrogen bonding between the molecules which actually stabilizes the molecules lower compared to be when it get converted to polymer .
+   58.64807036192195So , we talked about the stabilization of the monomer due to resonance , inductive effect or by hydrogen bonding or dipro interaction between the monomers and increase in the strain behavior of the resulting polymer , which all this factors are against thermodynamic feasibility because the del H value comes down .
+   51.504752601409265So , this actually goes down because chlorines are induced lot dipole movement .
+   108.94638362760936So , there could be a attractive interaction between the polymer molecule .
+   9.758738511895912So , having a knowledge of del H is very important for a chemical engineer .
+   35.00283548066008So , that it he can design a process whereby he can effectively remove the heat generated due to the polymer reaction so that reaction remain isothermal during the polymerization process .
+   48.37206796614258So , this alpha methyl styrene has a minimum of del H value .
+   12.369422801287255So , if it this goes down T c also goes down .
+   19.32635222089093If you consider this as a pure monomer , if you fix this concentration pure monomer as this goes down T c goes down .
+   39.89270885117667So , which means that for a pure monomer T c is much lower for alpha methyl styrene compared to a styrene which means that alpha methyl styrene cannot be polymerized .
+   25.15304644047901We talked about in the initial lectures when we introduced the radical polymerization about five six lectures back .
+   49.45875559222057For example , if you consider say maleic anhydride , stilbene or say one two simply one two dichloroethylene .
+   94.27983419381532It is not due to its magnitude its value of del H polymerization .
+   40.24844054629662Now , what is the reason that this monomers are difficult to polymerize ?
+   10.952932077178852That is because of you if you have say polymer , a monomer like this where you have substituted one two substituted and you have a radical , if radical approaching this double bond which gets very restricted because of this substitutions .
+   82.27467274938729What is the radical ?
+   5.9516257821476195It is generates when it propagate at the end is basically C H to Y C H to C H Y and so on .
+   97.3538377661944Now , when this has to further take part in polymerization it has to approach this monomer .
+   54.94814816631641Now , that so we talked about the T c and the values of del H and del S .
+   9.837416899727055If the change in d R p says del V star by R T , we can write similarly , activation energy in case of temperature .
+   64.10862220898495You can write activation volume in case of pressure depending up on the value of this activation .
+   31.36558343215483Activation volume is the change in volume from either monomer goes from monomer state to transition state .
+   56.76275710891229If the volume of the transition state is higher than the monomer volume then del V activation volume will be positive .
+   34.41250106766991You can get it from this expression and it is not very significant .
+   7.101358343859086We , the effect of pressure is not that significant for addition polymerization .
+   45.06614862667649Now , let us talk about , we will not spend too much time on the effect of the pressure on the rate of polymerization and molecular weight because it is not very significant as I said .
+   16.255799097141907That effect of temperature is much more significant .
+   11.766092790069798So , you can if you want to increase the polymerization rate you can do it much easier way by increasing the temperature .
+   18.7942519421304If you run out of the option of increasing temperature then people try to increase the pressure to increase the rate of polymerization .
+   43.59554790402431Now , let us talk about the molecular weight distribution in case of radical polymerization .
+   3.8811607533357453Now , again in case of radical polymerization , it is little complicated because the molecular weight forms during defined times of polymers are different .
+   36.6194180661224Now , with time the value of M and I changes .
+   19.981309173839325And changes means decrease , the mono monomer is converted to polymers .
+   60.439973005589806Now , the drop in I is much sharper compared to drop in M concentration of M , which means that X n the average degrees of polymerization or the molecular weight increases with time .
+   23.166085138636188One more fundamental difference in case of radical polymerization with the step growth polymerization , I spent some time in lecture probably couple of lecture back .
+   67.40678330447892You consider the entire reaction mixture is the polymer , which includes monomers dimmer oligomers and high polymers high molecular weight polymers .
+   57.569260421161154So , that entire mixture is your polymer sample .
+   32.50062242180219So , the P D I you got one plus P which is for the entire polymer which includes small molecules as well as the high molecular weights .
+   35.33231554800343We considered all the numbers all the molecules present in at the end of the polymerization which includes monomer dimmer oligomer and everything .
+   80.24251280059556So , which which are considering the small molecules also as a part of polymers and we are getting the polydispersity of 1 plus 3 .
+   35.277170802487916We discusses that during the polymers there could be cyclic reaction formation or the side reaction for which small molecular weight generate which which result in higher P D Ivalue of higher than 2 .
+   146.79716749558486So , you are getting the polymer precipitate from your reaction mixture devoid of the small molecules .
+   43.243857165014205So , basically you were narrowing your distribution .
+   55.963252068495244So , you are getting less than 2 value if you have if you have a less than 2 value .
+   27.060088705178046Now , in case of radical polymerization how do we define radical polymerization how do you define the X n is the total total number of monomers reacted , I hope it is all visible this is not very sharpen , by total number of polymer molecules .
+   34.0621478807271Now , these are high molecular weight polymers these are high molecular weight polymers which you isolate after the reactions .
+   26.73036634451072So , this does not contain the unreacted monomer .
+   41.35084608852287What is the value of X n for radical chain polymerization ?
+   6.480004643872688We will not go into very details into derivation .
+   45.16773988379185Now , this case P is probability that the propagating radical will continue to propagate and build polymer .
+   15.654157293681672What is the probability , is the probability given by the rates rate of propagation divided by total rates which is summation of propagation plus termination plus transfer .
+   54.53988018041334Because , it is making high polymer high molecular weight polymer that means it is undergoing more times of propagating reaction than a terminating reaction or a transfer reaction which means probability is close to 1 .
+   58.992955500349964So , X n is 2 by instead of 1 by 1 P is 2 by 1 p and X w is 2 plus P 1 minus P .
+   19.2031786388393So , P D I is 2 plus P by 2 .
+   12.094921063731476So , ration of monomer by I to the power half is this ration has not changed much , at low conversion it will not change much .
+   39.25964944140407And as I said for high molecular weight polymer P is 1 .
+   7.144631729995686So , the chain length the degrees of polymerization goes up .
+   8.930669293225636And have if you increase the temperature .
+   5.553020164229249if you increase the time the polymer molecular weight will be higher and higher .
+   8.427669723571185So , you have a much more broader polymer distribution .
+   19.590927768043038So , if you at the end of the polymerization if you consider the M w by M n value will be quite high and its typically between 2 to 5 .
+   16.098955973527957You understand that a low conversion it is , it was between 1.52 to 2 , but at the temperature as the time goes up the polymer molecular weights increases increases .
+   49.44004472286373So , that distribution actually goes up .
+   20.893717734781504Starting from low molecular weight at the beginning to high molecular weights at the at the end thE distribution goes up .
+   41.270788877047345So , you typically the value of P D I comes around 2 to 5 .
+   17.053304812791474And if there are gel effect effect like gel effect and all this things were molecular weight shoots up at the end because the reason we talked about in the last class it could end up a P D I value of 5 to 10 .
+   38.86843698175277If intermolecular chain transfer happen then the P D I goes up further .
+   25.190356499575735So , if the there are branching happening because of inter molecular chain transfer as gel effect then P D I goes up and it could be as high as 20 to 50 .
+   54.842501447018726Now , talked about how the polymers are done you know .
+   15.39831384439761You can do the polymerization only with a monomer and we call it a bulk polymerization .
+   20.74046791277651You can dissolve the monomer in a solvent and do the polymerization then it is named as solution polymerization .
+   39.81320398504931And you can do the polymerization in emulsion as well .
+   11.9198788325323As I said is the most simple or the simplest polymerization .
+   37.04498510210519You have to take the monomer and a initiator which is soluble in the monomer .
+   18.21277716652862So , you take the monomer you dissolve the initiator and heat the monomer to start the or to initiate the reaction .
+   63.58947778350232And obviously , what is advantage here ?
+   24.456049749808976If you remember that discussion we had just few few minutes .
+   42.33409717722825But monomer actually , if you increase the monomer both the reaction rate and the molecular weight goes up and this is the maximum concentration you can do .
+   19.76046142305303So , rate of polymerization molecule is high and because you are not using any other chemical solvents or other things this gives you high purity polymers and gives you minimum contamination of the product .
+   78.40692295606725For example , because your concentration is very high even at low concentration even at low conversion the viscosity goes up because the medium viscous if the polymer is viscosity goes up .
+   37.69182488287343And as the viscosity goes up you cannot start the reaction medium very effectively and if you cannot start you cannot dissipate the heat generated due to exothermic polymerization .
+   85.44985305812882So , viscosity becomes high and stirring become difficult .
+   43.46086323188049And at the end of the polymer also polymerization also , if the viscosity of the resulting you are your final polymer is very high then processing also becomes very difficult .
+   35.87943275291445It is still utilized for say making styrene , poly styrene , poly methyl acrylate , poly vinyl chloride .
+   88.7614734532204Then stop the reaction take out the polymer and restart the reaction again .
+   24.822670345141063So , that you can get high molecular weight , high rate of polymerization without building very high viscosity .
+   23.096152190723735So , you have to do actually stop starts stop start stop reaction where you start the reactions stop at low conversion and then you stop and take the polymer out .
+   79.4806739390505Another strategy is taken for making sheets and all this things that you make a pre - polymer which is not very high molecular weight .
+   21.702364082103895So , you pour that pre - polymer into the sheet and then without starting you do the reaction .
+   67.49524727688767So , you do not you are not aiming for processing this thing or you are not aiming for for heat management all this things .
+   94.92954696989231You are not targeting that .
+   20.514328220326043So , these are the things these are strategies are applied for in industry for using bulk polymerization .
+   66.44813162724309We move to solution polymerization where you have require monomer solvent and a soluble solvent soluble initiator .
+   45.311374848889066It could be homogeneous , if the polymer formed remain in in the solution it will be heterogeneous .
+   40.487542978215814If the polymer is insoluble and precipitate out once it forms and once it precipitate outs it can form powder or granular .
+   45.021184070366864For example , acrylonitrile in bulk or acrylonitrile in water in this case , it should be water .
+   66.97968937086335If you start polymerization acrylonitrile in water , poly acrylonitrile is not solvable in water , so its precipitated out you get acrylonitrile powder or granular .
+   185.55133204752474Obviously , advantage the advantage disadvantage which we had for your bulk polymerization .
+   66.41062047785955So , there is no question of local heat formation , local spot formation , hot spot formation and degradation of molecules and thermal control becomes easier .
+   139.93507256642204So , it is sometimes very difficult to take out all the solvents from the polymer quantitively .
+   30.784286656379198And that is very detrimental for the properties of the you know final polymers , you do not want solvent to be contaminating your polymers .
+   38.34109986698631Now of course , you cannot throughout all the solvents unit solvent recovery and recyclic which is a very hazardous for this .
+   79.26548773995177There is a third type of polymerization we talking about where is a heterogeneous polymerization it could be suspension or dispersion .
+   40.58230446527478In case of , suspension monomer and monomer soluble water suspension polymers are nothing but bulk polymerization done in in small volumes .
+   54.01246129369076You make this small volumes of bulk polymers distributed in a or dispersed in a aqueous solution .
+   51.77559189241382So , all the disadvantage of the bulk polymers should not be present here because you are doing in a small small volumes and small droplets and because its present in a in a surrounded by aqueous medium .
+   40.7520093947579What you do , you dissolve take your monomer dissolve the initiator in the monomer and then on that you add your dispersing medium which is already heated in the temperature you want to do your reaction .
+   53.00284148970133So , you take the monomer along with your initiator you add the preheated dispersing medium and then reversely start .
+   69.55220311061102So , that they remain in the as a dispersion form because you have this soluble water soluble polymers or the ionic particles which actually act as a stabilizer for this droplets .
+   54.433691364163195So , what you do initially , you initiate is dissolved in the monomer and then preheated dispersing minimum added .
+   73.87711565630538And vigorous starting converts the monomer containing initiator into strong small droplets of 100 to 500 microns , and because dispersant presence which are very small amount 0.1 weight percent .
+   168.09530085788575Now , you have the monomer droplets along with the initiator molecules has a small droplets which are dispersed in the aqueous solution .
+   13.95110750084543That is why some times it call as a bead or a pearl polymerization .
+   57.71905740652836So , you can remain maintain all the advantages of the high polymer bulk polymerization and you can get the polymers by filtration as a beads .
+   51.419995524460745It should be rigid if you want to isolate these polymers as a bead then it should be rigid and it should not stick to each other .
+   30.24014335418678Now , that happens if your polymer glass transition is is way above your room temperature .
+   36.78541340407831So , we will start from this point and talk about the dispersion polymerization and emulsion polymerization in the next lecture .
+   12.119207715648205Today we shall discuss the performance of enzyme catalyzed reactors , the reactors in which enzyme catalyzed reactions are supposed to take place.You will recall earlier we had discussed some of the salient features of different reactor types ranging from batch reactors , batch stirred tank reactors to continuous stirred tank reactor or plug flow reactors and fluidized bed reactors .
+   59.16685694695499We had also seen earlier the factors that affect the choice of different reactor types and to recall some of the factors that we had talked about the most important ones are listed here like form of the enzyme .
+   59.50495878666828That is soluble , fibrous or particulate .
+   108.52158807507907The nature of the substrate whether it is soluble , particulate or colloidal , operational requirements ; the control of pH in case an acid is produced or consumed in the reaction , reaction kinetics , carrier loading capacity , catalytic surface to reactor volume ratio , mass transfer characteristics , ease of catalyst replacement and regeneration , reactor cost and ease of fabrication .
+   140.03360622747687All these factors that I have listed here can be considered mainly under two categories .
+   47.68982015515945One category contains the factor which becomes fixed once an immobilized enzyme is prepared .
+   111.97313285564356The operational requirement is also fixed depending upon the nature of the enzyme catalyzed reaction whether an acid is produced or consumed and pH control is a requirement .
+   31.918629688474322Similarly the catalytic surface to volume ratio is also fixed once an immobilized enzyme preparation is available .
+   73.33729989913459Ease of catalyst replacement and reactor cost and ease of fabrication are the factors which are dependent on the type of enzyme reactor .
+   68.25759951119579Last time I was taking we had also considered certain idealized reactor design parameter .
+   116.87112128581099Either it is a plug flow motion or it is a completely back mix and nothing in between .
+   35.0457137123207That is what we have assumed and there are no mass transfer limitations and no significant partitioning of substrate between bulk and the carrier phase .
+   11.94054260992461That means the parameter which we should define initially before we go on to design any particular reactor was “tau ” , the space time in the reactor ; initial substrate concentration , enzyme loading , E0 .
+   72.87655429896299In the case of continuous operation , the information about the deactivation rate constant is also required , kd .
+   28.597235307581553Ultimately the performance will be dictated very heavily by enzyme kinetics .
+   46.225331460033864The first and probably the most simplest reactors is the batch reactors .
+   11.992822337110708The batch reactor can be used both for soluble enzyme as well as for immobilized enzyme.You can carry out a batch reactor in a stirred mode or in a packed bed mode with using total recycle and on the right hand side is the characteristic profile of the reaction species that is the substrate and product with reference to time .
+   38.13891832061716The substrate concentration drops and ultimately depending upon the extent of conversion which we require , the product concentration increases .
+   23.175865771795664You take material balance for one of the reaction species say substrate and make a material balance ; simplify it .
+   46.932016306815235Do mathematical steps and you will arrive at the reactor performance equations which will give you the performance of reactor .
+   10.5265120521506When I say performance of reactor I mean the extent of conversion as a function of space time or in a batch reactor with the reaction time .
+   30.926762650346372Here in the case of a batch reactor the accumulation is volume multiplied by rate of change of substrate concentration that is –v.ds / dt .
+   30.80242105922481Input and output here are taken as zero because there is no continuous input and output .
+   70.65138277821464Only initially we feed the reactor and at the end of the reaction time the output is taken out .
+   22.399438815374918This is equation 1 and this is equation 2 .
+   14.658046799646684If you want to describe the equations in terms of reactor performance then X is equal to S0 - S X = = 1 - S / S0 ; S / S0 = 1 - X S0 So if you substitute all these parameters you get in terms of reactor performance equation for a batch reactor in the form of fractional conversion that is XS0 + K ’ mln 1 / 1 - X = k ’ 2E0t The reaction performance equation for a batch reactor if we want in the terms of product concentration , product concentration is nothing else but P = S0 - S assuming that its a unimolecular reaction .
+   51.898986387244975If in case you are handling with a different kind of a reaction scheme let us say one mole of substrates goes into two moles of products then accordingly one has to make a change in the definition of X as well as P .
+   52.71883635044964That means you take a single batch performance data ; take the maximum conversion at different times of reaction .
+   93.86562216437618If you plot let us say ln ( S0 - S ) / S0 - S and t / S0 - S , you get the slope of k ’ 2E0 / K ’ m and with the intercept as - 1 / K ’ m Sorry .
+   42.40585318252796X - axis is lnS0 / S .
+   22.88189541497735When we immobilize enzymes if we monitor the kinetics parameters Km and vm , the simple way to measure the kinetic constants for an immobilized enzyme reaction will be to carry out the reaction in a batch stirred reactor .
+   35.9945389481437Here I must again put a caution .
+   56.375368848103356When we used the Michaelis Menten equation you will recall that we had made certain assumptions and the assumptions were that we are talking of the initial reaction rate .
+   14.901273656338622That means at a time equal to zero .
+   13.602349033418566So here we are violating some of the basic assumptions of the Michaelis Menten equation .
+   11.717121797520697So when we apply the integrated Michaelis Menten equation for looking at the performance of an immobilized enzyme reactor in the batch mode we must keep in mind that it only gives you an approximate situation just to tell the sizing of the vessels required for a particular enzyme catalyzed reaction and to compare the soluble enzyme with that of immobilized enzyme performance .
+   57.38277667540621Even while looking at the kinetics of the soluble enzyme we always look at the situations when it comes to extreme substrate conditions .
+   46.603239458138646That means it ranges from first order to zero order regime .
+   8.340260345227525XS0 = k ’ 2E0t If suppose you approximate an enzyme reactor to follow either a zero order or a first order regime , knowing the values of Km and k2 the error involved in that will be determined by the ratio of Km / S0 .
+   41.90048645374246If the ratio of Km / S0 is very , very small you will hardly incur any error if you assume it to be a first order .
+   73.45720683386416When we go on to consider along with the reaction kinetics we consider mass transfer and all more complications we will tend to approximate our reactor performance in either zero order or first order regime rather than making it a Michaelis Menten equation which might make the solution of the expressions more difficult or it can be done by any numerical methods .
+   71.26565348129002The error involved will increase if you increase the ratio of Km to S0 and you assume a first order because then both will go towards the zero order kinetics .
+   33.162433872519635Km is much , much larger than the S0 in the first order .
+   12.487347509277697So the value of Km / S0 will be larger .
+   12.48493339923226Km / S0 will be large and under that condition you must assume a first order kinetics and if the value of Km / S0 decreases the error will continue to increase .
+   29.47514610068261If you are going to measure let us say the value of Km or vm , you need an accurate value .
+   29.26033208419265But when you want to go for design , let us say a reaction capacity ; what is the volume of the reactor required to carry out this conversion ?
+   29.176271827282108You are not going to be very specific that this is the volume required .
+   28.145157585986748So if let us say the error involved is less than 10 % , I think there is no harm in making an assumption of zero order or first order .
+   51.73685666709876If the error involved is much larger then our assumptions will be slightly hazardous .
+   90.90798342905066That means the feed rate of the substrate is same as the output rate of the product stream .
+   23.527854307548488Substrate concentration S0 , changes at the exit .
+   45.21527145631665But one of the characteristic features is that all the parameters at the exit stream are same as in the reactor itself .
+   15.701357196574069That means the reaction will take place under conditions of S , P or X which exist at the exit stream .
+   26.072350603966747Therefore if you just write a material balance for such a reactor system you can write accumulation as V.ds / dt = FS0 –FS – v.V FS0 is the input ; S is the substrate concentration in the outlet and v is the reaction velocity that is the conversion due to the reaction and V is the reactor volume .
+   63.91521379701479When we say steady state situation it means that the concentration of any species does not change with time in the outlet stream .
+   26.151399472799152There is no accumulation of any species in the system and therefore one can write k ’ 2E0S v = D ( S0 - S ) = K ’ m + S D is the term here what we understand as dilution rate or F / V or in other words V / F is the resistance time , inverse of space time .
+   50.20861969680328So this D is the term and you can also write k ’ 2E0S S0 - S = K ’ m + S ?
+   24.567225417361122Similarly here also if you make assumptions of zero order or first order situation when K ’ m is much , much smaller than S0 , that is a zero order system ?
+   20.43243745316147= XS0 / k ’ 2S0 For first order system where K ’ m is much , much greater than S0 , you have K ’ m ( X / 1 - X ) = k ’ 2E0 ?
+   15.497018969639074The expressions are very simple and if you have the data available for any reactor performance for S0 , fraction of conversion required , you can determine the volume of the reactor required or the feed rate required depending on the tau and one can make computation to define the reactor performance under given conditions .
+   54.29564616522035So making a material balance across the reactor you cannot choose any concentration term because the concentration term for substrate changes with the length of the reactor and the concentration of the substrate or product is not constant throughout the reactor .
+   32.775839517955056If you consider here input to the system is F.S and this input I am writing at the entry of the differential element and output , not at the entry of the reactor , is equal to F ( S + dS ) and the disappearance of the substrate by the reaction will be the continuation of the reaction to the disappearance of the substrate is –v. ( dV ) Under these conditions one can write the material balance under steady state assuming that the accumulation is zero .
+   58.68556802297927/ S0 which is equal to zero to X dX / - v .
+   5.638367224826198If you look at the performance of a plug flow reactor you ultimately arrive at or transfer the S0 to here so tau is equal to S0.dX / - v .
+   44.234820443639734That is the reaction rate .
+   5.031967601845551So the performance will be almost identical to that of a batch reactor excepting with the difference that the reaction time here is replaced by the space time and the reactor performance therefore on the same lines you can write as S0X – K ’ m ln ( 1 - X ) = k ’ 2E0 e ?
+   35.18098127627593That means the volume of the reactor occupied by the enzyme preparation is negligible compared to the total reactor volume whereas in the case of a packed bed a significant proportion of the reactor is occupied by the enzyme preparation .
+   15.986797208021404I was just trying to define the term what I introduced here as epsilon .
+   65.0249001788056In the case of a batch stirred reactor we have not considered epsilon because the quantity of enzyme or the volume of enzyme in the reactor is negligible compared to the total volume of the reactor .
+   16.04325248548121On the other hand in the case of a packed bed reactor a significant fraction of the volume of the reactor is occupied by the packed bed and the volume occupied by the fluid or the feed substrate is only the wide volume of the reactor and therefore the volume occupied by the feed in the reactor is considered as the actual reactor volume .
+   22.837603694214213So this gives you the reactor performance for a plug flow reactor following Michaelis Menten kinetics .
+   8.869284109071923= XS0 / k ’ 2E0e For first order , tau is equal to ?
+   26.663409936563117If the system doesn ’ t undergo substrate inhibition that is if it undergoes inhibition , we have no choice other than to using a lower substrate concentration .
+   99.67783969884186So the only difference lies in the case of reactor performance of plug flow reactor .
+   9.00361972845194In the case of PFR , the expression changes to K ’ m ln ( 1 - X ) = k ’ 2E0 e ?
+   12.785426938325688Our interest will always be to have a high fractional conversion .
+   9.748285634359416That means most of the substrates which is being fed gets converted into product .
+   24.50311899915365If we want to compare the performance of both CSTR and PFR as I mentioned in the case of zero order regime there is no change and the performance remains identical .
+   15.979286571993915You notice in this expression that higher the required conversion level , higher the relative amount of the enzyme required in the CSTR .
+   56.932256081762986You take a simple value of 0.5 and if you make calculation for X = 0.90 , the Erel required will be equal to 4.5 .
+   51.167769922309866That means the enzyme required for the same fractional conversion that is 90 % in the case of a CSTR will be 4.5 times more than that required in the PFR for the same conversion .
+   25.824042642840876The same enzyme , the same reaction , the same conversion factor but the quantity of enzyme required in CSTR will be much , much higher compared to PFR .
+   21.160207974879825If you change the fractional conversion to , let us say , 0.99 , the Erel value shoots up to 25 .
+   46.94650953532019In case if the fraction of conversion required is very high if you are looking for a 99 % conversion , it will be desirable to use a plug flow reactor with a partial recycle .
+   18.250759298255208As you notice here what ever I mentioned , it signifies the same thing .
+   55.567270363106836Here instead of Km / S0 I plotted S0 / Km .
+   29.56189677739317That means as the fractional conversion increases , the relative quantity required also increases and towards the final stages of the fractional conversion , the quantity very significantly goes up .
+   40.42204344613408On the other hand you also see when you come to S0 / Km as hundred approaching towards zero order regime the quantities remain almost equal all through , till you arrive at 90 plus or more than 95 % fractional conversion .
+   88.79529111756874But if you want to use a fraction of conversion much higher than 90 % then the PFR becomes more and more matter of choice .
+   27.20463352875045Then the immobilization will be identical .
+   18.32072240668471Your choice should depend upon the operational convenience .
+   41.187467029815885If suppose the enzyme particles are in the form of fibers or spherical beads , it is easier to pack them rather than putting in the CSTR where there might be abrasion .
+   65.89189416677625So the form of substrate and form of enzyme will dictate the choice .
+   31.695286144018677The kinetics will not be dictating .
+   17.869989283254075That means either a substrate inhibition or a product inhibition or a third inhibitor an external inhibitor available in that .
+   42.77805203703817We have also not considered the deactivation of the enzyme on the reactor performance .
+   9.469388217438437All these parameters particularly the inhibitors , rather their inhibition pattern , their deactivation pattern , the mass transfer requirements , the mass transfer limitations and the non - ideal flow behavior ; these are the four things .
+   66.79334503224771They might be some kind of deviation from the ideality because of the packing characteristics or some channeling taking place or in laboratory you can very easily maintain a good plug flow reactor .
+   41.353662969751916So all these issues we will take individually rather than compounding all of them because not that all the issues will be applied in a particular reactor system we will have to identify the issues which are important .
+   58.998773861865004For example we identify let us say the mass transfer limitations are the most acute .
+   37.22038747658517The system is mass transfer limited .
+   9.237843011619034There is point to consider reaction kinetics ; you design your reactor system based on mass transfer diffusional requirements .
+   76.59855580901086I think we will stop here and continue to discuss the behavior of enzyme reactors .
+   16.24480168183858At the start I will be giving you a thorough introduction about the polymers which includes the classification , nomenclature and perspective of molecular of polymer molecules .
+   101.87664468733456In the characterization , I will talk on detail about the thermodynamics of polymer solutions and then polymer chain dimensions , and I also will cover in detail about various methods for measuring molecular weight of polymer , polymers .
+   47.501923883389644And then I will cover polymer , important polymer properties and how the structure of polymer molecules correlates to these properties .
+   39.19897913782027I will also cover both the chemical structure as well as physical structure of the polymers and how it relates to the polymer properties .
+   29.147283101338438I will cover in brief the reaction of polymers which include polymer degradation , stabilization and also polymer modifications and at the end I have planned to brief you about few new topics , and special topics and new development in polymer chemistry and at the end I will complete with a summary of this course .
+   138.91213207032376Now , after learning what are the topics , we planned to cover in this course , let us introduce polymer to you , what are polymers ?
+   49.09591425173321In a very simple term , in a single sentence polymers can be defined that they are large molecules that is why sometimes they call macromolecules synonymously .
+   77.04389220535471They consist of many repeating structural units , the term polymers derived from Greek words poly and meros , poly means many and meros means part .
+   243.76716265534003So , you get a polymer for example you have ethylene here and in this side after polymerization you have polyethylene .
+   29.629163671337068In this case all the monomers are same so we name these polymers ; we term these polymers as homo polymers .
+   36.744949704866364To just give you a example of copolymers I have a say I have a molecule like styrene and I also have a molecule like methyl methacrylate .
+   17.564505832044883Now , this two can be polymerized to give you a poly styrene co MMA , this is a copolymer of poly styrene and methyl methacrylate .
+   42.584054503291505If if we have say more than one diol in this case ethylene glycol and say butylene glycol , that case we will have a mixture of two structure unit where you have terephthalic acid and ethylene glycol and also a terephthalic acid and butylene glycol in this , that case we call this or we name this polymers as a copolymers .
+   41.059392336896295To just repeat about this copolymers generally , we use the term copolymers where the polymer is synthesized form to different monomers where the monomers are or can be polymer individually .
+   63.91650457856549There is another case where polymer is made from two different monomers , but in this case we do not call this as a copolymers , because the constituents monomer usually cannot be homo polymerized independently by the same process .
+   36.05864075676776And when you make polymerization polymers , we invariably land up in distribution of molecular weight while a polymer is a high molecular weight , but it also gives you a distribution of molecular weight that means it has several length , the polymer mixture is consist of different molecular weight chains and this is , this high molecular weight of polymer which gives you or which enables a polymer to have this useful properties where , for which the polymer is known for for example , it gives you high tensile strength impact resistant , toughness , melt viscosity and and so on .
+   57.341258559052Now , you might ask me why and what is the reason this high molecular weight help in giving the , a polymer this superior properties compared to this small molecules .
+   58.42717773655301This is individual colors ; individual chains represent a individual molecules in this case as well .
+   57.04009017389883So , given a stress from outside they can be separated easily , in other word these small molecules behave independently .
+   115.73583630114592If I just give you a example of real life , say I have taken a bowl of rice and you want to take out rice with a spoon , you can easily take out because each individual rice units behave independently .
+   70.73526307195799So , in this case where it was very easy to deform or set up small , mixture of small molecules in this case because of the large molecules it is difficult to deform a polymer molecules which gives you high viscosity , which gives you the high strength of the polymer molecules , high impact resistant , toughness and all other good properties of molecular polymer samples and that is why polymers is so popular now a days .
+   75.91476175776961Okay , coming to the more definitions relevant to our course of polymer chemistry as such .
+   48.595231724266185So , for making a polymers you require monomers which have at least two functionality in them .
+   48.17106745508203In this case this is the unit which is repeated which means and this is called , this is the repeat unit for polystyrene case .
+   30.45009736869087Now , if I go back the example I gave in the few minutes back , in this case for example , for polyethylene terephthalate this is the unit which is represented in the bracket .
+   31.28395830377077We talk about oligomers .
+   5.56561776225342Oligomers are you know during the process of polymer synthesis , you get the small chain units which are consist of 2 monomers , 3 monomers , 4 monomers and so on , dimer , trimer , tetramers and these are called or termed as oligomers .
+   67.86142441365234Now , you can ask me till when , till what time we call a molecule as a polymer or oligomer ?
+   76.01506578838487Whether it is after 10 , 11 , 12 , 20 , 50 , 100 you know after how many repeat units , you call a polymer as a polymer and before that you call as a oligomer .
+   60.8148131799923Now , it depends it depends upon different polymers , the easiest way to think a molecule , a long molecule as a polymer not a oligomer if you add another unit repeating unit or you take out another unit and by doing this addition of one unit or taking out all unit , if the property of the polymer or the molecule does not change you call it as a polymer , but if change significantly then you still call it as a oligomer and that will depend on the chemical structure of the polymer .
+   80.35578318512957So , some cases if you increase from a repeat unit number from 20 to 21 or decrease from 20 to 19 you might see there is a change in the property , you cannot call that chain as a polymer you have to call that as a oligomer , whereas in some cases some some cases you do not see any changes say after 20 to make 20 to 21 and 20 to 19 then you call that as a polymer .
+   50.35401896449987So , in this case number of repeating units RU repeating units is same as number of structural units SU is structural units .
+   23.291565026245944Whereas , in this case , case of polyethylene terephthalate individual monomers which are coming here and making the polymer they are called structural units .
+   30.584063033143185In this case number of repeat units is actually half of the number of structural units .
+   16.030717859058498So , when you define degree of polymerization it is the number of structural units not the number of repeat units present in a polymer .
+   16.32568458306374So , in this case if the molecular weight of of each styrene , molecular styrene is m and you have a polymer with n number of repeat units same as structural units then molecular weight of this polymer would be m multiplied by n .
+   38.19269623117716Now , what happened in this case ?
+   4.56197282105559In the case of PET .
+   10.70369984777637For example , if I take the molecular weight of this as m 1 and this as m 2 then how do you get the polymer molecular weight ?
+   17.616703412514514How do you define ?
+   4.157914142033352So , let us see whether it get clarified to you in this cartoon .
+   44.489352541055666Now , before going forward let us clarify one thing in a more often or not you know in commonly polymers are referred as plastics .
+   132.55605259787058Now , there is certain difference between the term plastics and polymer .
+   31.291850362104874Polymers are the molecules which we synthesize from the monomer , they are individual molecules or a mixture of molecules , but we do not use when you synthesize a polymer from , in the lab or in a plant we do not use , in a seldom use as the polymers as synthesized .
+   51.26244753634429In most cases what happened we add some additives like pigment , stabilizers and then process that polymer mixture , you know polymer with the mixture to turn this polymer into a practical product .
+   141.22687114437178So , if I talk about pet bottle when you synthesize pet in the lab and that is not a plastic material or when you take a pet molecule poly terephthalate molecule in the plant and then mix with the stabilizer and other things and form that bottle , that is called plastics .
+   73.42760199057118So , when you talk about you know , but in commonly , in common man whatever they see is applications of polymers , they see in daily life is a plastic , you know applications are visible as a plastics application .
+   185.59810462403976So , that is this common term that is why this common term is appearing .
+   72.85070656066563If you think yourself or if you read magazines and talk to the older people then you will find that in last century whatever new material development has happened polymers will rank as one of the top .
+   154.35824702704292So , in last century polymer is one of the biggest success in terms of new material development and as a results more and more applications are existing or coming up where this polymers are replacing the conventional materials like metals , glass , wood and so on for example , I am wearing a spec .
+   188.63167298235157Now , earlier , few years back for a decade back or so this spec was used to be made from glass , but now a days you will hardly find any spec is made up of glass , they are all made up of either polycarbonates or the cheaper ones are formed acrylics .
+   218.50068314558953So , I have , hope you are convinced that polymers are you know a useful material and replacing the conventional materials .
+   55.42006240816081There are hundreds of polymer goes in those applications .
+   13.496366260642544Talk about a oxygenator which is used during a heart , open heart surgery or talk about applications in car head lamp , aircraft windows and and several high end applications like very high capacity DVDs .
+   150.16050153932008Now , why why people use polymer compared to this conventional materials or traditional materials ?
+   67.0863634402052There are definitive , there are some definitive advantages for example , I just gave you example of the spec .
+   91.75328391645458This is one of the most important advantages of using polymers which gives you excellent strength to weight ratio .
+   42.440717245411285It gives you design flexibility , you know there are and also various you know the option of giving you modern styling you know .
+   107.08059008973743Polymers are most cases thermal insulator which makes it or enables polymers to use in electronic industry and unlike the conventional materials like wood , metal they are optically clear which enables application of polymers in media , and optical devices and one more important that there are so many polymers available in market that you can choose a definite polymer for your particular applications .
+   154.82448338351213Some polymers are of course , very costly , that gives you very good performance , but more often not the polymers gives you , comes with a lower cost .
+   69.08261492992229Now , before I come to the introduction of polymers or polymer chemistry , I just want to give you a big picture , a view on the top , a bird ’ s eye view from how you look at polymers .
+   55.948170689462934You know different stages , life stages of polymers and how it get transformed where they induce of polymers .
+   84.2122663280301Sometimes , it come other form as well like in emulsions .
+   130.2692019426311So , if it is solution you have to take out the polymers from the solution in a powder form and if it is in a bulk or in a melt form you can use as such and if it is in emulsion cases like some cases it is in emulsion .
+   49.026862697961626So , in most cases to find a polymer , these polymers are synthesized in a plant from raw materials which are monomers by the process , which are termed as polymerization .
+   39.57633958737312So , you have polymers which you can get from natural source , but in majority of places a polymer is synthesized from raw materials , monomer by process called polymerization .
+   78.13288353685333How , where from do you get this monomers or the raw material ?
+   27.94056520106924As I said most cases synthetic polymers are prepared or synthesized from monomers which are derived from petroleum resources .
+   37.103805326405585Now , you have to take the polymers towards application side .
+   24.84686657049309There are minority of polymers are taken to the applications where polymers are used along with the other ingredients like in detergents .
+   41.838535570237326If you talk about say eye drop you have polymer in aqueous solutions with salt and other ingredients .
+   79.65944751995967So , in that case what is done the polymers as comes out from plant is taken to a step , taken through a step , a polymer processing step which are commonly called compound where the polymer either in a melt form or in powder form is mixed with the required additives or property enhanced enhancing fillers or sometimes with other polymers as well to make polymer blends and you get a intermediate product , is like pellets .
+   110.29491316075851And once the polymer and this pellets are supplied to the equipment manufacturer , they do a processing steps to give you or to give the final shape , design fabrication step or in a finishing shape and you get the final products which gives you the , which goes into the final applications .
+   62.009190759745785I will give examples which will clarify these points more in , once the final application is done the , this life cycle of the polymers does not end .
+   95.2028151138482If it is a solution you have to take out the polymers as a powder form .
+   16.730121620922425In minority of application this polymers are taken and added to other ingredients like the examples I gave in detergents , but in major cases the polymer is mixed with the other ingredients like additives , pigments , stabilizers and it is by a process called polymer processing , compounding and you , it is transformed with granules or flakes or pellets to form intermediate product .
+   188.47686845112048How this , how the polymer industry works ?
+   9.119915236267287Now , if we talk about the big polymer manufacturers like DuPont , Dow Chemicals , SABIC , Bayer they are manufacturer of polymers .
+   183.87234628434885They get the monomers from other source or they might make themselves as well and they , after making the polymers in the plant they also do this steps themselves , from this intermediate product .
+   118.19075074974396And then sell it to some original equipment manufacturer which do this processing step , molding step to make the final product , which goes into the final applications .
+   40.04832349072913This BPA molecule , this is produced from phenol and acetone and this is produced from coke getting oxidized to carbon monoxide which one react to it chlorine gives you phosgene .
+   172.16328003698706It comes from cumin plus acetone .
+   28.74468120204344This comes from petroleum products , which is eventually coming from crude oil .
+   39.897306195287875Let us just go back to earlier page and repeat this .
+   51.180991771005715They make this process definitely , they make or they synthesize the polymer in the , polycarbonate in the plant them self .
+   114.3854730019584They can source the monomer at any stage , they can buy BPA and phosgene , they can buy phenol and make BPA them self or they can buy a cumin and they make and they can phenol from which they can make BPA and and then PC .
+   194.48441549491935They also do this step , this step compounding step them self .
+   128.46241816894516This original equipment manufacturer buy this pellets , polycarbonate pellets from any of these big companies and they mold it to , they mold it to give a form of a head lamp cover which they then supply and sell it to a car manufacturer who assemble these head lamp along with other things and have this product in the market .
+   206.165027372732So , this gives you idea about a different stages of polymers and how the industry work .
+   25.659605213748158There are some smaller industries which make custom polymer products .
+   97.80943440410243These are the examples of big polymer industry where the the companies make the polymers in very large quantity , where the the applications where polymers find you know minor like examples I said where polymers are synthesized and added as a active or secondary ingredient in other formulations , those polymers are typically made by the smaller companies and they are taken , they are synthesized by the smaller companies .
+   124.60120643626202So , current focus in polymer research is to make monomer and subsequent polymers from a natural sources , which could be a bio source or a source which can be renewed or the source by by renewal resources .
+   121.30794228602879There is a focus also make this polymerization process green and environmental friendly where you avoid use of this toxic chemicals and gases like solvents and other things .
+   156.6950632563942There is also emphasis of making new polymers of complicated structures which will find applications in newer especially in medicines and also this this is a continued research interest where you take existing polymers and add additive fillers , new additive fillers or different processing step , now improve processing include polymer processing where you you make this different improved application of or newer applications of the existing polymer .
+   260.45325191213027We also learned why we should study polymers , polymers as you by now convinced that find applications in conventional applications as well as very newer applications , very high end applications and we also learned why nowadays polymer is used more and more applications , what are the good properties of polymers and why polymers are different , you know why polymers are get what what are the structural features of polymer gives you this is improved properties and then we also learned big picture .
+   125.06035330251308So far we have been talking about the kinetics of single substrate enzyme catalyzedreactions and as we all know that in the living cells a large variety of enzymes interact with the multiple substrates .
+   23.605620088119625In a living cell the concentration of the two substrates that are to interact with the enzyme may be almost in an equal or near by concentration levels .
+   53.33515518636708They may not be extremely different and therefore it is necessary to look at the actual effect of the bi - substrate reactions on the reaction rate .
+   27.833271353085188Two of the examples which I have chosen here are one on alcohol dehydrogenase which oxidizes ethanol to acetaldehyde involving a co - enzyme NAD and the other is hexokinase catalyzed phosphorylation of glucose or any other hexose to the corresponding phosphorylated sugar .
+   57.23481366075097Most of the hydrolytic enzymes isomerizes or often can be analyzed using classical Michaelis Menten kinetics .
+   30.952532725642303The oxidoreductases represented by the first reaction or a transferase represented by hexokinase or in many cases the lipases are the real true bi - substrate reactions which in general should not be treated or analyzed with the Michaelis Menten kinetics .
+   90.26034023037Basically that signifies that the dynamics of the interaction between the enzyme and the substrate molecule may be quite varied unlike in the case of Michaelis Menten kinetics where you have a single substrate and it has to bind on the active site of the enzyme molecule and form an enzyme substrate complex .
+   20.143430995442515Here because the substrates are more than one there are many possibilities for interaction between the substrate and the enzyme molecules and so therefore these dotted figures indicate a variety of interactions that are involved .
+   30.186309852139704A generalized rate expression for this was proposed by Alberty based on steady state hypothesis .
+   17.888627242626633That is V0 = Vm.A.B Vm is the maximum reaction velocity where both the substrates A and B are in saturating concentrations .
+   34.18773717762216Almost the same assumptions that we made in case of Michaelis Menten kinetics and the A and B can be to a saturating level providing a maximum reaction velocity .
+   36.92983642547761The denominator term gives you another three kinetic parameters ; K ’ A is the dissociation constant of binding of E to A giving EA .
+   37.582417561393555This is dissociation constant and KB and KA indicated here are the concentration of the substrates A and B respectively at which the reaction velocity is half the maximum reaction velocity at saturating level of the other substrate .
+   43.450032686760416There might be some confusion about KA and K ’ A .
+   20.618640475865053K ’ A is the dissociation constant for binding of A to the enzyme .
+   8.022323117134587This distinction between the two will be more clarified or clear when we proceed ahead but such a situation exists in the case of bi - substrate reactions .
+   50.744935558665986You will notice that the apparent Michaelis Menten constant will depend upon the concentration of the other substrate also and this dissociation does not depend upon the other substrate .
+   15.64649381020905Out of the several mechanisms , in one of the mechanisms this K ’ A may be equal to K and the rate expression will accordingly get modified .
+   47.34238953696347Under those conditions if you take the first expression you will notice that this can also be considered almost like as you mentioned earlier while looking at the validity of Michaelis Menten kinetics for bi - substrate reactions that if we put one of the substrate concentration in excess the expression can represent the bi - substrate reaction kinetically with respect to other substrate .
+   50.832749447773864Similarly when A tends to infinity analogous expression will emerge V0 = Vm.B / KB + B So you get a similar expression in the case of excess concentration of or large concentration of one of the reactants and that was also the understanding we had when we discussed Michaelis Menten kinetics .
+   79.90545333215105You can rearrange this general expression by taking certain factors and divide both and you can end up at the constant concentration of B .
+   68.35429084701705You notice the relationship between the apparent Km for A and K ’ A .
+   22.157502005876832Although they are related it also involves the concentration term of the other substrate which is B and a similar relationship like this when you consider constant concentration of A and the apparent Km for B .
+   71.03179330203879Or in other words in a special case when K ’ A = KA ; Kmapp = KA The relationship between these two terms implies that when they are same as the Michaelis Menten constant with respect to A it does not interfere and K ’ A = KA .
+   25.796089558032108It is with respect to first substrate binding .
+   27.43619011757995Under this condition I am trying to give you an analogy or an explanation as to how KA and K ’ A are related .
+   63.26153722469706If you consider the single substrate reaction the dissociation constant of substrate with the enzyme is analogous to Km value , whereas in the case of bi - substrate reaction that situation is not true .
+   23.582675213212802That is only a special case of a bi - substrate reaction under which the Km apparent for B will become equal to KB when these two become equal .
+   38.184457482280806Otherwise this value will be this magnitude although they will have a relationship but they will be a function of other substrate concentration .
+   48.819752147527474That was the only assumption .
+   15.948670613401891In the first case this should be KA .
+   14.948558145976506You can also look at these expressions in a graphical mode and to have a better visualization .
+   49.737047363325814In the first case when we are talking of constant B your profile will be something like this .
+   17.1443342106085Similarly in the case of A constant you will have another Km value K ’ A.KB + KB.A Kmapp = KA + A Here also this is your constant A .
+   50.96416426655669This will be a maximum reaction velocity when A becomes saturating .
+   14.79443070133327Such a situation can be conceived as a simplification of Michaelis Menten system .
+   34.03929308321976What will be the kind of the double reciprocal plot ?
+   6.596284874997022In the case of a generalized rate expression one can just write 1 / V0 = ( 1 + KA / A + KB / B + K ’ A.KB / AB ) / Vm That is the double reciprocal plot if we divide both the numerator and denominator by A into B you will get rate expression .
+   38.00510955653012If B increases you will get a slope of KA + K ’ A.KB / B Vm The intercept on this factor will be 1 + KB / B Vm So you will notice that both slope as well as intercept of the profiles will decrease as you increase the value of B and ultimately when this B become saturating it will be a typical K value for the substrate A .
+   88.80667418611444Experimentally the magnitude of KA , KB , K ’ A and Vm can be determined by double reciprocal plot analysis .
+   19.90411875290535Similarly here if you plot 1 / B versus the magnitude of slope you will get again a straight line with the slope equal to K ’ A.KB / Vm and intercept of KA / Vm .
+   38.36535062536306You will notice that while looking at the generalized expression of the bi - substrate reaction rate expression we have not really bothered about the dynamics of enzyme substrate interaction .
+   29.625889199846867The first form , the first complex formation can be considered as the random ternary complex formation .
+   20.794482780693926When we are talking of enzyme and two substrates there is a quite logical choice that we might end up instead of binary complex , a ternary complex where E , A and B all the three are combined together before a product formation takes place .
+   75.99170716785066In the case of random ternary complex formation the enzyme can form binary complex EA and EB to start with and also the ternary complex EAB with no restriction on the order in which A and B bind to the enzyme .
+   39.42377737702265You can express it in a mechanistic way the enzyme going to EA or EB and EAB and this four this will go in cyclic form .
+   80.35697667260942Either reaction can go in this direction or in this direction there is no constraint on the order of the ternary complex formation .
+   28.0485512861453Another typical feature is that the kinetic parameters of the same enzyme which catalyses the same reaction from two different sources are different .
+   31.318436378016237One of the reasons in such cases is based on the different reaction mechanisms that are involved .
+   10.54068421620722Similarly yeast hexokinase also follows this kind of mechanism where the ternary complex formation is obtained .
+   49.22280022063355They may be equal to in some cases or they may not be equal to because ultimately the multiplication of the two dissociation constant in reaching to EAB will be same .
+   48.943382466157786But we have just put the different rate constants .
+   21.392001858351808The second case again with respect to ternary complex formation is ordered ternary complex formation .
+   11.696754703907494In other words if you write down the reaction mechanism EA this is k1 , k - 1 and then this will go to EAB and this is k2 and k - 2 .
+   19.072809485159265The process in this direction is not feasible .
+   12.250197873471338A typical example of the ordered ternary complex formation as I mentioned is liver alcohol dehydrogenase which is obtained in the mammalian systems and also lactate dehydrogenase is another example of ordered ternary complex formation .
+   27.031049049899323You can see that the same alcohol dehydrogenase can follow different mechanisms .
+   38.27604680947192A special case of ordered ternary complex formation when B reacts with EA ; the order is important .
+   46.182622611559694We can only react with enzyme only when A has bound to it to form and one of the products is released and the modified enzyme substrate complex is generated .
+   30.465105453145693That means a modified enzyme substrate complex is generated and a first product has been released without the formation of a stable ternary complex of kinetic significance .
+   83.18612848689949Such a kind of a system where although the second substrate B reacts with EA to give you the first product and the ternary complex is not a very stable entity is classified into the Thorell and Chance mechanism .
+   30.659268194088487A typical example of such a reaction is glyceraldehyde - 3 - phosphate dehydrogenase which you also come across in the case of glycolysis .
+   25.984065603126606The second substrate has to interact with the binary complex before the first product can arrive at but the stable intermediates are only EA and EY .
+   79.26299429078976You will also notice that in many books it is written as Ping - Pong bi - bi mechanism .
+   27.770080460792546The term bi - bi refers to substrate and product .
+   23.230595462468667Bi - bi means two substrates and two products .
+   69.40533294087221In case of many of the ligases the situation may be bi - uni .
+   80.69903021853027All those cases are clubbed under Ping - Pong mechanism and in this case of Ping - Pong mechanism the basic hypothesis is that no ternary complex is formed .
+   27.74027949285037As soon as the first substrate binds to the enzyme it can react to form the B to form a product or it can split off to a product E .
+   23.673188383105582You will notice that the two things like Thorell and Chance mechanism and the Ping - Pong mechanism in some way might show analogy .
+   29.244639149512764EA ’ then interacts with B to give you EA ’ B and then this gives you a product again which is Y with k3 and k4 .
+   35.30675996687258
+   Average: 48.40029692335503

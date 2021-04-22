@@ -1,0 +1,275 @@
+Now , in this lecture I plan to cover discuss the general characteristics of ionic chain polymerization , and while discussing I will compare how this ionic chain polymerization compares with radical chain polymerization .   2.275456078541066
+And then we will go to cationic chain polymerization and talk about different types of initiation for cationic chain polymerization , and then go to propagation and termination reactions in cationic chain polymerization .   3.18268406658946
+And then I will talk about kinetics of cationic chain polymerization and then energetics of cationic chain polymerization .   2.760439180698086
+Now , let us begin our discussion on ionic chain polymerization .   2.3190641389898357
+Now , as the name suggest , in this case the initiation is from an anionic species , whether it is a cation or anion .   3.364185719814622
+It could be acceptance of electron giving rise to a radical anion or removal of an electron , which gives to radical cation , which two of which might combine to give you a dianion or a dication which can further initiate the chain reactions from both the sides .   1.9729773003735567
+This is a case of cationic polymerization and this two are the case of anionic polymerization .   5.006639040145973
+Now , in this case , the ionic species are the initiator or rather the initiators are ionic species , so as the propagating species also ionic .   2.554447936547863
+Now , like radical chain polymerization , these ionic chain polymers , polymerization reactions are not very popular commercially .   2.4142391613386907
+One is that stringent requirement of polymerization in case of this ionic polymerization .   3.363159765634674
+We require very , stringest , stringent conditions , which are difficult to achieve in a large industrial scale and also , this ionic polymerization are very selective , which means , that not every monomer can be polymerized by ionic polymerization , unlike , unlike radical case where most of the , poly , monomers , double bond monomers can be polymerized by radical chain polymerization we can assume .   2.582722088364141
+So , these are the main two reasons why this ionic chain polymerization , are not practiced that commercially in that scale .   2.203438541014844
+And so in that sense , it is not that important like radical chain polymerization .   3.045723388670955
+First is that as I just said , that it is , it is much more selective , much more selective .   2.898160715442673
+Now , for anionics , for anionic chain polymerization we need to have monomers , which have electron withdrawing group , electron withdrawing group , which could be , as we discussed earlier , something like this , acrylates or methacrylates , and , and so on , with this can be polymerized anionically because the resulting anion can be stabilized by this resonating with the carbonyl bond .   2.8821459334602344
+So , in that sense , this anionic and cationic polymerization at very and only if the monomer has , monomer with , monomers with , with inductive effect and ability to stabilize the propagating species by resonance in the , both for cationic and anionic , then this monomers can be polymerized by both cationic and anionic .   2.312567086336652
+For example , you have styrene where both cationic and anionic can be stabilized by resonance with this aromatic proof or say , cation , resulting cation or anionic can be stabilized by resonance from this double bond .   2.0575216117087076
+While in case of radical we have seen , that all this , this monomers or this monomers or this can be all polymerized by radical chain polymerization .   2.994308075003467
+So , in that case , in that composition radical is a , radical chain polymerization is much least sensitive compared to the ionic polymerization .   3.0133168483398807
+It is not only polarity , but the capability of the solvent molecules to solvate the ionic species giving the chain propagation .   2.6532044935621317
+Now , as you have seen earlier , that a propagation reaction can be this .   3.048336113628371
+It is either cationic species or anionic species .   2.302846204377296
+Now , this anionic species or cationic species , they are not present alone in the medium , they are always associated with or accompanied by a counter ion .   2.6108585025845814
+So , this propagating chain are always of this ionic group , are always accompanied by a counter ion of oppositely charged , that is always happens .   2.075964944708256
+Now , depending on the association behavior of these two species , the active center and the counter ion , the reactivity of the propagating species varies .   2.9092746521481274
+What I mean , that if they are very tightly bound , they are very tight , then obviously , the accessibility of , or the reactivity of this ionic center are less .   3.1327698400914867
+So , the propagating species is less reactive .   3.5934043931817734
+While if you compare with the situation where they are well separated , they are like free , free hands .   2.330451144633262
+Now , if they are free , then obviously , they are more accessible and the reactivity of this propagating species , ionic propagating species are much more reactive or much more reactive compared to situation when they are tight ion - pair .   2.8405511128296808
+So , it is always preferred , that you have a polar solvent , it is , this is always preferred .   4.222253487552123
+So , you have a higher rate of reaction or an eventually higher molecular build up .   3.277697491966204
+Now , often if you use polar solvent , for example if you use hydroxylated solvents , hydroxylated solvents like say , H 2 O or alcohol , what happens ?   2.326009402855942
+This , this reacts , this hydroxylated solvents react very , very fast , you know , very effectively they react with this ionic species and then stop the chain .   1.9636562054010307
+So , you do not have an effective polymerization happening .   2.5930831051682115
+So , eventually or practically , a low to moderate polarity solvents like , say methylene chloride or say , methylene dichloride or THF , or ether or nitrobenzene .   1.4976265592389861
+They , they actually can be used for ionic species polymerization , but this is , these are not very generic in the sense , that the solvents , this solvents also can react with anionic species as well .   2.7862514793199997
+So , we have , we will discuss specifically for the requirement of solvent .   3.2887360145823794
+We will talk about cationic and anionic polymerization individually .   2.7909896337176336
+Now , how this , if you want to write a , a generic structure of , say , to write , write a cationic propagating species , which have , which a cationic reactive centre and a counter ion , which is represented by A minus , so what are the possible states they can represent ?   2.456947968070966
+One , they can be completely covalent bonding , covalent bonded , covalent bonded , one .   1.8288377810607463
+So , tight ion - pair or sometimes it is called contact ion - pair or see , some people say intimate ion - pair .   2.0459716123483767
+It can be present as solvated .   3.322782546915162
+So , solvated has three solvated ion - pair or loose ion - pair or they can be totally free , free ion - pair .   2.0780019158006136
+So , these are the possible , depending upon the polarity of the medium this could the four possible association state between these two ionic species .   2.3655934692170972
+Now , it , we have given examples of cation and anion here where the propagating species is B plus , is said the both cationic polymerization , the propagating species in cationic polymerization .   2.114975601465314
+But it can be true ; this post can be true for the other anionic polymerization as well .   2.5643025932959733
+So , which means and in some cases these , these are not present isolately , they actually remain in equilibrium and equilibrium shifts depending upon the polarity of the medium .   2.1771404090417934
+And if you compare with radical chain polymerization , solvent polarity actually has no such role to play in case of radical chain polymerization .   2.6140194256983014
+You have to only check whether the solvent can solubilize the monomer or the reagent and it , solvent should not participate in the undesired chain transfer reactions .   2.356994579842556
+So , this type of solvent dependent reactivity was absent in case of radical chain polymerization .   2.716299479279837
+So , third characteristic we can talk about and compare the nature of reaction .   2.1533220583878405
+Now , this , these are complex reactions as we will find out from further discussion , that these are complex reaction and they are very fast .   3.2726573262094107
+So , they are very fast and this fast nature of this reaction is due to the fact , that the accumulation of this active centers .   3.04102900035208
+One cation cannot react with another cation , cationic propagating species and terminate the reactions in case of radical .   2.4878372568955345
+But in case of radicals we have seen , that the steady state concentration of the active radicals is very low and as a result , the propagation was comparatively low in a slower , in compression to these ionic polymerization .   3.074872456605776
+Cocatalyst are nothing but small inorganic compounds , like say H 2 O , can be observed in case of ionic polymerization have , which was not the case of radical polymerization .   2.361072436810648
+And as I said earlier , this four is your , the termination reactions .   2.0625281367188193
+As I said , that bimolecular termination is not possible , bimolecular termination by the action of two propagating species is not possible and so if you can suppress the other , other reactions , which are chain transfer reaction , if you can suppress those , you can actually keep this chains , this ionic chains as living because you can , because the inherent or intrinsic termination reaction between the propagating species are not there , they are absent .   2.7607623837841277
+You will find out in later discussion , that in case of cationic there are other ways , which are likely like chain transfer reactions , but in case of anionic it is comfortably easy to make polymerization , leaving chain polymerization .   2.5800769166810986
+Whereas , in case of radical , we know , that this termination can be possible by bimolecular reaction of the two propagating new species .   3.108215384681583
+So , let us now talk in detail about the cationic polymerization .   2.135668819490648
+So , let us talk about and again , like radical polymerization if any chain polymerization , this cationic chain polymerization we were discussing .   2.938131706052483
+Now , HX would be strong enough if these acids should be stronger enough to produce significant concentration of the protonal species , so that it can initiate , react with the monomer .   1.999352433284538
+For example , if I consider a case of halogen acids like HX and take the generic structure of the monomer with the reaction , we put on electrophilic reaction , it will form the same initiating species , but because this halogen anion is , is so strong nucleophile , it will actually combine again and form a covalent bond .   2.5533697100709474
+So , your reaction stops there .   1.6754690803523709
+You cannot have the reaction progressing further .   1.9545940621094107
+So , so other protonic acids like H 2 SO 4 or say , HClO 4 or phosphoric acid .   1.544464164021807
+So , these are limited and the molecular weight , molecular weights are not very high for this proton by this reaction , cationic reaction by this protonation .   2.830712752858194
+So , most , most popular , most important , this electrophilic reaction is reaction of Lewis acids .   1.570064175770446
+So , these are Lewis , Lewis acid can be used for supplying an electrophile for reaction with the monomer , but it is this Lewis acids are seldom used alone .   2.722050520771632
+We will just give examples in few minutes .   2.514521192655148
+So , if you consider this case the reaction happens like this .   3.0980287450097217
+BF 3 plus H 2 O makes a complex or we can use other Lewis acids and we can use this alkyl halides as a cocatalyst and this case , the complex found is like this .   2.717865141439227
+So , this case , this is a protogen , which is basically proton donor protogen and this is cationogen , which is a cationic species donor or carbocationic , carbocation donor .   3.408568519277418
+This is coinitiator , coinitiator , BF 3 or AlCl 3 are , sometimes they are called this BF 3 or AlCl 3 , called catalyst and this initiator called cocatalyst .   2.1161193853994886
+So , you should be careful about this nomenclature , other you called this as initiator and coinitiator or you called this as catalyst and this is the cocatalyst .   2.522760387936762
+Similarly , you can write this similar reaction for this aluminum chloride and alkyl halide reaction .   2.2554779357017556
+This alkyl halide could be , say for example , R could be tertiary carbon or could be a triphenyl carbon group .   2.193785567546682
+This is I and which then react with a monomer forming the chain initiating spices .   2.780722282760547
+Now , we are writing ki for this reaction because it has been found out , that of these two reactions , this is the two reactions , consists of chain reaction , chain initiation reaction .   3.5420034328814434
+So , we will consider this reaction while calculating or while determining the , or looking at the kinetics of this chain polymerization .   2.613718987118267
+Remember , if you compare with the radical chain polymerization , this was the first reaction compared to the step , the first step , where radical was getting generated from the initiator molecule and we considered that as a rate determining step for radical chain polymerization .   3.0031714344240275
+But in this ionic chain polymerization we , this is the faster reaction step where this is the slower and rate determining step .   3.7266717361777513
+So , for ionic reaction monomer also participate in the chain initiation reaction where in case of radical monomer was not actually part of the chain initiating expression Now , the reaction rate also depend , depends on this YZ , which is basically a cocatalyst .   3.174493642671842
+It will also influence the polymerization rate because the activity of the initiation complex depends how readily it can transfer a proton to the monomer and that in turn depends on the acidity of this cocatalyst .   2.694762904567421
+So , basically the type of cocatalyst also influence the polymerization because the acidity of this , this complex , the activity of this complex depends on how readily it can supply this cationic species , where I say proton or in this case it is a proton or a carbocation to the monomer , and for a proton or protogen or a proton supplier , it depends on the acidity of the cocatalyst .   2.6233828949324267
+So , it follows this trend and for the carbon cationic generator like RCl , like AlCl 3 plus , this reaction .   1.9743719831068394
+Obviously , I , the catalyst or the coinitiator also affects the rate of polymerization .   1.8084961757423939
+For a single metal follow this trend of the ligand .   2.1127649570278977
+If the side reaction rate also increases , then again the problem of molecular build up come .   2.5908468132286946
+Now , there are other initiation reactions , other initiation reactions , for example , halogen , halogen can be reacting with more acidic Lewis acid and gives out cation , halogen cation .   1.8268405631161335
+But as I mentioned in earlier , these are the generic examples , which we get in this page .   3.2138530081644565
+These are the most common example of or the most important initiation reaction .   3.3238062812445603
+So , let us now discuss the propagation step .   2.1688439763364373
+So , you have this initiator , coinitiator complex , which starts the chain initiation .   2.546171243867079
+I write this in the next page , it can react with the name and start the chain propagation reaction and I can write a generic expression of this in this way plus M kp n plus 1 M plus IZ minus .   3.0085005904369484
+I just recall from your earlier decision , I am writing the propagating reactions here .   1.8452251713227776
+This , on reacting on with isobutylene , will produce the.. ... So , these are the examples of the propagating steps and sometimes this propagation reaction could be complicated and because of this one two hydride shift , but that is not very common .   2.52303980700255
+I will just give you an example when this propagating steps could be little complicated and by hydride shift or shift and that is applicable for say , propene or one alkene , one alkenes , take example .   2.2057203314505203
+Now , this can undergo a hydride shift and from this carbo cation .   2.4817959695042293
+If this happens , the reactions become very complicated and we call that sometimes isomerization polymerization as well .   2.1517234467602293
+The example we gave , most common propagation steps are in this page , what we just discussed now and as you can realize , that the rate of propagation will depend on the solvents .   2.90554959441
+So , the rate of polymerization will be higher .   3.5078262714303854
+Now , let us have , let us see some data related to convince that understanding .   2.35525554650863
+Say , let us take example of styrene , polymerization of styrene by or chloric acid HClO 4 solvent is a mixture of CCl 4 and ethylene dichloride .   1.902945348095889
+If you have pure CCl 4 , obviously , this is more non - polar , dielectric constant is 2.3 and the rate is low .   3.0991265854175407
+When you increase the polarity by adding ethylene dichloride , dichloethane , EU , say in 40 - 60 mixture , your dielectric constant goes up , your reaction goes up .   1.9406458892115805
+For example , one beta proton transfer to either monomer or counter ion or say polymer itself , solvent or some impurities , which is present or a transfer agent , like the case of chain radical polymerization , we talk about the chain transfer is possible .   3.154548926426414
+And for example , if we consider the beta proton transfer to monomer , I can write k transfer monomer just like the radical polymerization .   2.984156647592647
+So , one , depending on which proton is leaving you can get actually two structures with double bond .   1.9424113057904144
+For example , like you have alpha methane styrene in case of , say , example , the monomers like styrene , where you always get only one possible double bond because there is only one possible beta hydrogen to be eliminated .   2.7004331950869767
+We have been discussing so far the steady state analysis of mass transfer and biochemical reaction in immobilized enzyme reactors .   2.2696831238723183
+JD factor is defined as a lumped parameter which takes into an account the mass transfer coefficient particularly field diffusion coefficient as well as the reactor operational parameters .   2.1717060696666897
+The JD factor is JD factor = ( kL ?   1.422051830734854
+The first term in the parenthesis represents the mass transfer function ; the other is dimensional number which gives you the operational parameters and here kL is a mass transfer coefficient ; ?   2.6288577665116306
+It has been shown at least empirically in a large number of experimental data that JD is equal to JD = C ( Re ) - n A very general relationship for JD factor has been given that it ’ s a function of Renault number to the power minus n and under different conditions of particle shape and the range of Renault number the magnitude of C and n varies and that can be estimated for a particular system .   2.638399142202935
+If you look at this one , you will notice that from the estimation of JD factor as a function of C , Renault number to the power minus n one can determine the value of kL .   2.9111819770758993
+The magnitude of kL then gives you at steady state , the reaction rate .   2.4084660433036755
+That is v ’ = kLam ( Sb - SS ) = rm Under steady state both the biochemical reaction and the mass transfer rate are equal .   2.8407659743398987
+JD can be computed from a variety of correlations as I mentioned .   2.116308287093154
+This is only one of probably a large number of relationships that are reported in the literature of heterogeneous catalysis in chemical engineering .   2.8252415785256884
+For spherical particle JD is equal to JD = 1.625 ( NRe ) - 0.507 This is one of the relationships which have been proposed but a large number of such empirical correlations are known .   2.5288110897116294
+For example in the case of CSTR , life is much simpler ; if the fractional conversion desired is very high even at a high initial substrate concentration , the substrate concentration in the reactor will be quite low and that is the substrate concentration which is going in the outlet stream .   3.6276594658904653
+Similarly in the case of PFR , because the enzyme loading is very high usually in PFR , a large fraction of the reactor also experiences a low substrate concentration .   3.091833798479029
+kf is equal to a pseudo first order rate constant for enzyme catalyzed reaction which is k ’ 2E0 / K ’ m .   2.921717948264927
+Therefore rate of mass transfer is rm = kLam. ( Sb - SS ) In the case of a non - porous particle the issue is to develop an expression which gives you the substrate concentration at the surface because the reaction will take place at the surface of substrate concentration .   3.0633156612976684
+kf apparent will be kL.kf.am kappf = kf + kL In your reactor design equation you can incorporate , instead of first order rate constant as this one which is based only on biochemical reaction , this rate expression .   1.9475652090304127
+kappf can be used to designate the reactor performance of the first order immobilized enzyme reactor with film diffusion limitations or film diffusion control .   2.8200909856529073
+Even in chemical engineering that is very conventional thing ; only difference is that those catalysts are very , very stable interms of their thermal , operational as well as storage stability where as immobilized enzymes are not as stable .   2.411876084052118
+But all the analysis is identical and Satterfield also provided a single point reactor performance equation based on film diffusion control for heterogeneous catalyst .   1.7816765004580868
+If the mass transfer has to be incorporated this much of length of the reactor is required under these operational conditions to have the substrate concentration equivalent to biochemical reaction .   2.9686868682483047
+That means to make Sb - Ss equal to zero , without any biochemical reaction this much of height of the reactor is required under these operational conditions .   2.432948833198286
+You simply design your reactor on the basis of biochemical reaction and be happy .   1.9831320673216508
+On the other hand if this height required is reasonably high then you forget about biochemical reactions and design the reactor based on diffusional requirements based on the mass transfer coefficients .   2.09020820780309
+This is basically empirical equation depending upon the reaction operational data the height required for effecting the mass transfer across that film .   2.399676971502261
+Yes . Exactly what we are assuming here is that there is no reaction within the pores of the particle .   2.5836090351740904
+All the enzymes are present on the surface and in the thin film there is no reaction taking place .   3.79371363311362
+You must appreciate the difference between the internal pore diffusion and external film diffusion while in the case of internal pore diffusion during the transport of the substrate in the particle reaction is also taking place whereas here there is no reaction taking place along with the mass transfer ; its only mass transfer .   2.8868646423551674
+If suppose there is no reaction taking place then along the length of the reactor at Z the substrate concentration will reach to Sb same as in bulk .   2.7483264414817796
+It will take some time whereas if the biochemical reaction is also taking place at the substrate then that length required will be given by Z2 at substrate concentration Ss .   2.767475761436164
+In the case of porous matrices a very large quantity of fraction of total enzyme which is immobilized is within the pores of the particle .   2.384537518316495
+The quantity of enzyme immobilized on the surface is in fact very , very small compared to total surface area in which the whole enzyme is distributed inside the pores of the reactor .   3.022221806396603
+Very broadly the effect of internal pore diffusion in a very simplistic way is described for isothermal reaction incorporated in the pore diffusional effects by k ’ 2E0Ss v ’ = ?   2.3247816081780734
+But at the moment we are talking only of biochemical reaction and internal pore diffusion assuming that the transport through a film is fast enough and it does not create any problem .   2.4828840439755946
+That means there is no concentration gradient across the film .   3.2480538765986338
+In this case this is defined by a factor ?   2.834215334243877
+which is called as effectiveness factor .   1.7580163602198806
+This effectiveness factor is the ratio of the rate of actual reaction in the matrix divided by the maximum reaction rate obtainable if there was no pore diffusional resistance .   3.407078828958464
+That is if for example you take a particle let us say of one millimeter diameter ; determine the reaction rate and then also take a particle let us say of ten microns or twenty microns diameter in which we assume that the pore length is very , very small .   2.69303112964699
+Even if the diffusional rate is very slow the substrate can reach to all parts of the enzyme go down to as low as possible and the ratio of the two that means the maximum reaction rate which you can get when you go down in the particle size to that of the reaction rate which is obtained by a particular particle size is defined as the effectiveness factor .   3.8273215702954255
+You have Sb here ; you reached Ss ; there is no substrate concentration gradient but then here onwards there is a gradient .   2.5868021784050064
+There are two things you must appreciate in contrast to the film diffusional effects .   2.1813799533658575
+One is that there is a rate of diffusion ; the substrate will take some time to reach to the different sites of the enzyme present in the pores .   4.178907918890656
+Ultimately when you will measure the enzyme activity you will see that the enzyme activity is low because per unit enzyme loading the activity which will be expressed by the immobilized enzyme particle will be lower .   3.1737993113344642
+So therefore if particle size is reduced you get an advantage that the fraction of the total particle which is receiving the substrate increases coming to one when the particle size is too small and usually in most cases as per the experimental experiences that a particle size about thirty microns in most cases of the biochemical reactions has been considered to give you an effectiveness factor of one .   2.502389474787817
+That is what is the ultimate limit and the internal pore diffusion effects are described by effectiveness factor .   2.658390004262408
+The first condition will be the enzyme kinetics where substrate inhibition is very strong .   2.9157419962013034
+The enzymes that are very strongly substrate inhibited may show an effectiveness factor greater than one because the reaction rate when the substrate concentration drops becomes higher than at the surface .   2.7352623574622346
+If the substrate concentration is high at the surface the reaction rate is low .   4.055924245445294
+The other alternative case of the effectiveness factor exceeding unity is that of a case where we experience partitioning effects particularly … .   2.772435613275642
+Take a typical example of alcohol dehydrogenase .   1.9540367274107227
+The reaction product ends up in hydrogen ions ; there will be a pH change and that pH change enhances the enzyme activity .   2.531786910224638
+So there are two extreme cases where effectiveness factor show discrepancy from the theoretical understanding .   1.9982154638126104
+In the case of strongly substrate inhibited enzymes , if the concentration of substrate at the surface is high then for substrate inhibited reaction , the reaction rate will be low and because of the pore diffusional parameter the substrate concentration across the pores is reducing .   3.463436527140334
+As we saw here the substrate concentration goes down along the pores and substrate concentration going down means the react rate of reaction increases .   2.7229405242527767
+No . When there is a partitioning of hydrogen ions and the conditions are such that the rate of reaction as a result of partitioning increases that is the condition .   3.560031235869279
+If the partitioning creates unfavorable conditions for the reaction then it will not be more than one .   3.9027802166270864
+Only when the hydrogen ions are produced and the micro environment created by the reaction in the form of product .   2.8810385918678483
+You must incorporate partitioning effects also in the steady state analysis .   2.394964310055216
+Then only you can compare .   1.9822458246114674
+This is dx the length of differential element .   2.8504489653934453
+R is the radius of the pore .   3.2667330985905885
+dS / dx is negative and this is output of the substrate from the pore .   3.112394471670393
+The conversion as a result of biochemical reaction is v ’ ( 2pR ) dx .   2.275507795992577
+If you rearrange you get ( ds / dx ) out - ( ds / dx ) in 2 - .v ’ = 0 dx RD If you take limit dx tends to zero you can write simply as the second order differential equation d2s / dx2 – 2 / DR .   2.2936502229991187
+No . Sorry diffusional coefficient will come here .   1.5338508092958312
+It is not going .   3.8424378892603746
+We have multiplied here too or v / D either way .   1.8293169809638457
+In today ’ s lecture we planned to cover interfacial polymerization , and we also will be talking about different synthesis of different step polymers in very brief briefly .   2.340573001705128
+And at the end , I planned to just give a summary of this module on step growth polymerization .   2.377344369486833
+We also discussed various way of making branched and cross linked polymers .   1.9494287194395856
+And we also studied in that context that in case of branching reaction going on the molecular build up is higher for a given conversion in comparison to a linear polymerization .   3.1368258236779814
+I mean by successful , I mean a building of the molecular weight of the polymer , which is targeted and in most cases it is a high molecular weight polymers .   3.149398550740987
+Now , suppose you have done everything right , whatever instruction is given to you in the this course or in any text book , you have followed everything right .   1.7373716059279918
+You have taken monomers in a ratio very close to r is equal to 1 and you have done the reaction at high temperature for longer time , try to take out the condensate for you know as much as possible .   2.9792023479865057
+Now , what does it mean it does not mean it all the instruction given to you are incorrect , you have to deep you know look into deep what might have happened .   2.2109081693574004
+And I just I will give you few guide line in the deep something goes wrong in spite of doing your best possible way ; now what are the things to look for and let us look one by one .   2.4821535206746774
+So , there is a guide line for trouble shooting , now you must be capturing the condensate in a trap will distilling of the condensate byproduct you must be you know must be collecting that in a trap .   2.248014546265962
+Now , you analyze the end of the reaction , you analyze that that material in the trap and see whether you found any monomers in there .   2.466206517646787
+But still , because one of the monomers might have volatile in excess than other , which will imbalance your stoichiometric ratio and which will definitely going to decrease your final molecular weight .   2.0917761654644984
+You can start slowly , which means that you take a you take the reaction and carry out the reaction for some time at a lower temperature and at atmospheric pressure .   3.4994671212471538
+Then their volatility tendency of volatility would come down as their molecule weight increases increased by this time .   1.6724413282270676
+So , what you can do in reaction you can do in the steps , you can do the first step in a lower temperature and at higher pressure and then slowly increase the temperature and reduce the pressure .   3.219010712723659
+So , that is the one way you can reduce and the volatility of the vocalization of the monomers .   2.6446184092157146
+And specially look for the chain stoppers which are mono functional molecules , if you find them which means it is as a result of degradation or a side reaction there would be either imbalance in the stoichiometry .   2.235324650727436
+Or there would be generation of this mono functional chain stopper , which will which will stop your polymer chains to progress further .   1.9885913439464136
+So , that will again reduce the molecular weight build up .   3.004268530036056
+So , you might consider chaining the catalyst or even reducing catalyst amount in the reaction .   2.1740478763989572
+For example , if you have say during a polyester formation , if you have something like this , there is one more very common side reaction is happens is by beta elimination reaction .   2.8793377844591075
+So , third thing you can do as I was mentioning is that you change the catalyst or sometimes catalyst a I said might accelerate the side reactions as well .   2.353210569224927
+And if you are doing in a solution , you are doing this poly step polymerization reaction solution , then you can also try and change the solvent .   3.470839848097022
+Now , so these are the things you can try out , if your reaction goes wrong and of course , if this nothing else work with this you might have to consider changing your reaction monomer , you are changing your monomers all together .   2.2884813636049595
+For example , if you have diacid chloride , chloride plus diol forming polyester polyester , say diacid chloride plus diamine polyamide .   2.0577115954722482
+And this first reaction are you know the has been taken that , this the fastness of these reactions has been taken .   2.668228333263027
+And it has been used in making polymers by interfacial polymerization .   2.884860298168844
+Interfacial polymerization reactions are happened in the interface between 2 liquid phase , 2 monomers are taken in two different liquid phase and the reaction happen in the interface .   2.385140464997582
+Now , this at the interface react with phosgene forming this come out which again with reaction with this phenolate salt will form a dimer in this case and reaction will proceed further in this way .   2.522022764138934
+So , this is a very slow reaction , if you do the reaction in this way this will give you a very slow reaction .   4.200307058691816
+So , what is done to tackle this problem a tri a amine is added in the organic medium , say triethylamine or trimethylamine and when this reacts with this species it is form a salt now this is water soluble .   2.24992519063909
+So , then the reaction of this two reacting species will be happening in the organic side of the interface .   3.067853819598735
+Bisphenol a poly carbonate is having this commercial trade names , I will be giving all this you know some of the trade names of this polymers in the next few slides as well .   2.304914921848262
+So , what are the characterize , for the characteristic for the interfacial polymerization we just discussed one that polymerization occurs the interfacial of two liquids and each of the liquid phase contains one reactant .   2.1342743322801097
+So , you do not need not to maintain a stoichiometry of say very close to one is to one like the other linear poly condensation reaction here .   2.463505034399907
+Because , the stoichiometry are the interface is always maintained at one is to one , because reaction is not happening in the valve phase of the two monomers it is happening only at the interface and because reaction happening one is to one .   2.424074074096056
+Now , the reaction is fast , so the when the monomer defuse to the interface immediately it find a chain end reactive chain end and in reacts before even can approach to the other monomer , which means that this unlike this linear poly condensation reaction , which talked about it happens in a kinetic control way and it is very fast .   2.563179559821268
+So , what is the outcome that molecular build up is much easier , because the as soon as the monomers defuse from the bulk to interface it reacts with the chain end and the chain grows one after one .   2.862432185486866
+So , the chain grows in size , so it is very you know it is comparatively much easier to build molecular weight .   3.119608813059066
+And as the reactions are happening or the monomers is getting added at the end of the chain , high molecular weight even possible at low conversion .   3.1818621943152974
+And because the diffusion is slower compared to the actual reaction , polymerization reaction this reaction this polymerization reaction are often diffusion controlled .   2.8380040026265037
+So , what are the requirements for a successful inter polymerization interfacial polymerization you need to have a inorganic base , which you require to neutralize the produce HCl otherwise HCl with go back and hydrolyze the salt .   2.271507566425156
+And the other way also you should restrict or minimize the acid chloride hydrolysis , because if it hydrolyze and form a plane alcohol , then it will just acid chloride if it hydrolyze to form simple acid carboxylic acid .   2.2803311764799874
+Proper choice of solvent , you must be taken and you need , because this reaction is happening interface .   2.6666513493045727
+So , product might will form much faster rate , if you are not starting the reaction .   2.3582083499210325
+So , what are the disadvantage in spite of all this advantages , this is not this interfacial polymerization are not practiced very frequently commercially , so there must be some disadvantages .   2.5870428054425934
+So , it is is not very economic in true sense and as you as you saw that we have to use wider lot of organic solvent and handling that large amount of organic solvent recycling them , and storing them and is a environmental hazard as well storing and handling them this organic solvent .   2.241648966599116
+Now , also polymers if you with it is presented in a solution most and most commonly in the organic solvent .   1.9104373607041294
+So , you have to at the end of the polymerization you have to take out the poly carbonate by steam precipitation if you steam precipitation .   2.9064436897742323
+So , there are always chances of having more impurities , compared to if you are doing in a bulk condition or a in a solution pure solution and also it is a batch process it is very difficult to do it continuously and as this reaction is kinetically controlled .   3.0975836558728975
+The chances of forming cyclics are much more , because cyclics are not reacting with the byproduct and forming the linear product once again , which means once cyclics forms it will remain in the final product .   2.076805526904393
+So , now we move to the different polymers , in coming few slides I just wanted to give you the standard synthetic process of the common commercial step polymers .   2.4181880332845056
+I just wanted to give you a brief idea of different types of step polymers and how they are synthesized commercially , just in a very brief .   3.1644556717337378
+We will start with polyester and just example we will take is the most important and most used polyester poly ethylene terephthalate .   2.5659927352618945
+This is the structure we have been showing you many times , these are several ways you can see synthesis PET Poly Esters Terephthalate , you can do take a ethylene ethylene glycol and diacid terephthalate acid .   2.5795491640770645
+And direct reaction you can take instead of terephthalate acid you can take dimethyl ester of terephthalate acid you can take acid chloride and acid an hydride and so on an hydride and so on .   2.229460486752084
+What did the commercial way of synthesis or the most practiced the synthetic process of making polyester or poly ethylene terephthalicin .   1.6064201301521819
+This case is by ester exchange it can be done either starting from dimethyl ester of terephthalic acid or from terephthalic acid itself .   2.1895620992178966
+And then these are now heated to a much higher temperature and the ethylene glycol is distilled out from the reaction .   2.9405701960070814
+So , between two of this molecules exchange ester exchange happen and as you take out this ethylene glycol from the system polymerization medium the polymer start growing slowly this is the .   2.7273950984421793
+And another way of making the PET is instead of taking dimethyl terephthalate , you can start with terephthalicacid and make first this an then follow the same process .   2.1331646617846425
+We will move to the next class of polymers step polymers polyamides and we have this is linear poly polymerization reactions this is aliphatic diamine with aliphatic diacid you can directly under go reaction to form linear polyamide .   2.3255977468936697
+Now , in last slide we saw aliphatic diamine and aliphatic diacids , now we want to move to the aliphatic diamines and aliphatic diester or diacid chloride in this case .   2.2582470192041995
+And these this polyamides are completely formed from aromatic groups containing aromatic groups .   1.7141094407070585
+So , these are aromatic polyamides and commonly known as aramid polymers and because the reactivity of this nitrogen attach to the aromatic ring is much less compared to if it as a simple aliphatic aliphatic aliphatic group .   2.3094035333187724
+So , typically in case of aromatic polyamide synthesis , aromatic diamines are reacted with aromatic diacid chloride and you get this completely aromatic polyamides .   2.324150010291114
+Instead of you can use the para substituted diamine with para substitute diacids to form this linear polyamides aromatic polyamides .   1.8637311652295907
+So , these are very high polymers which are high very high performance polymers we move to next say we have just given generic example of branching and cross linking in last lecture .   2.70357160211944
+Here , we I show you a definite examples you have ethyl an hydride here and we have a glycerol , when it reacts in this to reacts it form a linear chain along with a branch coming from this hydroxyl group .   2.256520366582277
+So , this is how you can carry out a there is a one example of forming bunch you know synthesis bunch polyester .   2.7970054990840545
+So , you have synthesized in this way a unsaturated polyester .   2.9883880398316878
+So , here you first make a step polymers , by step polymerization mechanism you make a unsaturated polyester , and then by doing a chain reaction you can do a cross linking reaction to form a cross linking reaction .   2.9291520597929437
+If this instauration is at the end of the polyester , which you formed then these are known as alkyd polyesters , how do you do that , the same reaction like in this case phthalic an hydride glycerol there you are hiding one mono functional acids , which has a alkene group a double bond at the other end .   2.405110696121347
+These are typically you know , these are available in the fatty acid there are lots of fatty acid which are which can be unsaturated available where you have a unsaturation or double bond in a other side not necessary end , but other side .   2.641194258410617
+Now , this double bond is free to undergo chain polymerization .   2.8463710942365648
+So , you can first stage you do a step polymerize to syntheses this and then you can take this and do a second step of chain polymerization either by oxidizing this or no using the other methods .   2.7944727316057123
+So , you can carry out the reaction with this the salt of phenolate phenolate ion and you can make a polymers like linked this .   2.977372692125268
+They are partially crystalline this PEEK and PEK poly ether ether ketone and polyether ketone they are partially crystalline polymers they have a T g around this range and they have a very high melting point .   2.484457657593233
+So , they also used in applications where string and link requirement for high temperature .   2.2233755762045204
+There are also amorphous T g is very high and their continuous use temperature is 300 to 350 degree centigrade temperature .   2.894865889688166
+I am just moving it fast , because this just information I my aim is to just give you the generic synthetic procedure for this class of step polymers .   2.1584947585779863
+But just for this course I am just giving you a over view of this different step polymer and just generic method of synthesizing this .   1.984410494361954
+So , we move to polyether imides again this is the process of making polyether imides and these are again very high heat polymers ; that means , this having very capability of you know they can be used in very high temperature .   3.1623893064800934
+So , in the if the application required that you the polymer will should be present at this high temperature .   2.6204079557516433
+So , you can use ultem as your material ; obviously , these polymers are costly , because they have , so high performance and they are also difficult to synthesize there are the same time much costlier then the common polymers .   2.5936566746626726
+And this is sold as a trade name as turlon , this is also very high heat polymer , this is also amorphous T g having 270 to 285 and the constant use temperature is 220 to 235 .   2.379788099682515
+Now , there are other step there are several other step polymers , which you know because of time or this course of this polymers is not to go through the detailed synthesis procedure of this polymers .   2.6674622839255986
+So , there are this is just a to mention that there are other step polymers as well listed in this slide .   2.851194995250725
+And which you can go through any text book or any standard publications to find out , if you are interested how they are synthesized and what are their property you know basic property .   2.669523675289635
+So , what I wanted to do next to just give you idea about step copolymers , now if you have say a amino acid R COH and NS 2 R double dash COH .   2.209855311416615
+Now , obliviously it will form , now why do we put the bracket will be always next to each other should I put the bracket here and put N like this , it may not be it could be somewhere here and there could be another bracket here .   2.6268027543207326
+And if you have two different group in side then you can make a copolymer , but this has not very regularly used method from making copolymer , if you the practiced methods are normally if you say , if you are making a polyester , if you have say CH 2 CH 2 OH ethylene glycol .   2.7624864277931036
+Now , you have to make the total of these total of this diol with the ratio of this thing is close to one is to one .   2.9419675889681294
+So , total number of functional group of OH group is almost close to the number of groups of COH group , so that the polymers take place .   3.1320445576925215
+So , this a example of copolymers of PET and PBT polyethylene terephthalate copolybutylene terephthalate depending upon the ratio of these two you know which in which one will be higher or not .   2.938242169518539
+Now , what do you except when you make this copolymer will there be alternative copolymer , that mean will you have this ethylene glycol group .   2.372085346972924
+Average perplexity: 2.615631941089133
