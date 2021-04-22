@@ -46,6 +46,11 @@ itertools
 sys
 ```
 
+## References
+* https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-10-98.pdf?from=https%3A%2F%2Fresearch.microsoft.com%2F%7Ejoshuago%2Ftr-10-98.pdf 
+* https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf
+* https://web.stanford.edu/~jurafsky/slp3/3.pdf
+
 Other details regarding the formulae used for the implementation of Kneyser-Ney and
 Witten-bell and computation of perplexity are written in the report along with the
 experiments conducted, parameters chosen, and results obtained.
