@@ -8,10 +8,12 @@
 > On Health domain corpus
 
 >>  LM 1 : tokenization + 4-gram LM + Kneyser Ney smoothing
+  
 >> LM 2 : tokenization + 4-gram LM + Witten Bell smoothing
 
 >  On Technical domain corpus
 >> LM 3 : tokenization + 4-gram LM + Kneyser Ney smoothing
+
 >> LM 4 : tokenization + 4-gram LM + Witten Bell smoothing
 
 * Outputs: of above mentioned LMs when run on test and train corpuses are in  /output_files
